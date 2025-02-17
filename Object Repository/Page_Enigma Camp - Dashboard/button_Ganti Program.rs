@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ganti Program</name>
+   <tag></tag>
+   <elementGuidId>1ed774d5-add3-453e-8e89-8041c3513230</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mt-3.appearance-filled.size-medium.shape-rectangle.status-primary.ng-star-inserted.nb-transition</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jadwal T&amp;C'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>668ecaad-b80c-4443-b2fd-addc20b27880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/learning-method</value>
+      <webElementGuid>c0ea0803-538c-4d59-a28d-fffc6073f316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>medium</value>
+      <webElementGuid>f2ea5255-033f-4223-ab2e-0e8d23b295e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shape</name>
+      <type>Main</type>
+      <value>rectangle</value>
+      <webElementGuid>245ef994-5ce0-46e8-9ac2-7235674091a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>status</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>88d62b1f-3ece-4a9e-acb5-a86d2705ee95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-3 appearance-filled size-medium shape-rectangle status-primary ng-star-inserted nb-transition</value>
+      <webElementGuid>2ef213fc-2bf2-4811-9aa6-c5b875e1e0a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>31825f50-c908-49fc-b70c-f594dbf63273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0630dceb-3316-430d-afd4-5c5995f83a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ganti Program </value>
+      <webElementGuid>a517616d-8ad7-4aad-b5c7-1414286a845c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default        pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5 cmax-width&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;timeline-body w-100&quot;]/button[@class=&quot;mt-3 appearance-filled size-medium shape-rectangle status-primary ng-star-inserted nb-transition&quot;]</value>
+      <webElementGuid>a1e64397-dee7-413e-8830-1fa09ab033dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jadwal T&amp;C'])[1]/following::button[1]</value>
+      <webElementGuid>45ee960d-d52e-4115-a992-a95e4ead63bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik Disini'])[1]/following::button[2]</value>
+      <webElementGuid>e7aee060-a22a-49f1-9983-d977d757c092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Materi Belajar'])[1]/preceding::button[1]</value>
+      <webElementGuid>73a14f24-2874-49ce-8055-0a7d018fb905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/preceding::button[1]</value>
+      <webElementGuid>579e8c2a-4233-4745-9922-1422a7c1f87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ganti Program']/parent::*</value>
+      <webElementGuid>98a56047-80fa-4cdf-9179-c98d58536016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/button</value>
+      <webElementGuid>2183ef82-7c4d-4db7-a676-18b128b7d8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Ganti Program ' or . = ' Ganti Program ')]</value>
+      <webElementGuid>e03c0af5-4bd2-4119-8078-951a31a8c11b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lengkapi data diri</name>
+   <tag></tag>
+   <elementGuidId>f8d9f3b7-81d8-4bb3-894e-2c450e428e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c197a16f-7ff6-4ce3-b0eb-f8dd823a8154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/profile</value>
+      <webElementGuid>42c3c11c-583f-4dee-b130-4433d3429d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>medium</value>
+      <webElementGuid>80fdf688-43ed-4b4e-aeab-d85dab90d37e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shape</name>
+      <type>Main</type>
+      <value>rectangle</value>
+      <webElementGuid>6c027da9-9c64-4a50-9ddc-7c1067f80e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>status</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>af4f62c8-44de-4772-8056-aa2bce365c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition</value>
+      <webElementGuid>f266faea-8e8c-4a49-bbde-41b1f9e05635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cd885b76-f30e-4958-8f28-d7b634a3a55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>29675822-faee-4fd7-9c95-b980095ce666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lengkapi data diri </value>
+      <webElementGuid>0b610590-6995-4645-829d-a36a5a2b1b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default            pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto&quot;]/button[@class=&quot;text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition&quot;]</value>
+      <webElementGuid>6a52910c-a580-43f8-8e6b-8b30d6a449fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
+      <webElementGuid>89eaf548-458a-44d9-acb7-20f2ea23e468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sesuai dengan Kartu Tanda Penduduk (KTP)'])[1]/following::button[1]</value>
+      <webElementGuid>4b479619-50de-467a-9ce7-8d9d190d3aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Uji Coba'])[1]/preceding::button[1]</value>
+      <webElementGuid>6451c70c-c15b-42f3-9c8a-d3a0cdd578eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[2]/preceding::button[1]</value>
+      <webElementGuid>20916424-c4ee-4f67-8871-8d465a619c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lengkapi data diri']/parent::*</value>
+      <webElementGuid>18fe2f56-0d37-4511-adc3-90e9e1af7022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div[2]/div/div/div[3]/button</value>
+      <webElementGuid>16c28224-840b-4f75-8801-94f9f5e7846d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Lengkapi data diri ' or . = ' Lengkapi data diri ')]</value>
+      <webElementGuid>ef823319-705f-4ac8-bad5-b513203bfd6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ganti materi belajar</name>
+   <tag></tag>
+   <elementGuidId>ae286d2f-a688-44b5-af8a-8d5375fe1688</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-capitalize.appearance-filled.size-medium.shape-rectangle.status-primary.ng-star-inserted.nb-transition</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='New Package'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>db23d74d-2e52-471a-bdde-548c76d590c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/course-package</value>
+      <webElementGuid>13ba697d-5a39-408e-85bb-dd19ac723189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>medium</value>
+      <webElementGuid>ae231ed2-3cb1-49ab-be35-5316c7a5e258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shape</name>
+      <type>Main</type>
+      <value>rectangle</value>
+      <webElementGuid>afdffb1e-eda9-4339-85bf-e5171e2e0839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>status</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>6bbe0658-ed0b-4b59-981f-62176759993a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize appearance-filled size-medium shape-rectangle status-primary ng-star-inserted nb-transition</value>
+      <webElementGuid>93d49ce1-1e34-4c16-815e-66d32143eae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f43efbf4-b7f3-4605-94f5-cb7109d160da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>06273791-4aee-4e7e-a7d0-c24c6ed8b7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ganti materi belajar </value>
+      <webElementGuid>be7c9c31-bd01-4ee9-8671-720eb98a384f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default            pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto&quot;]/button[@class=&quot;text-capitalize appearance-filled size-medium shape-rectangle status-primary ng-star-inserted nb-transition&quot;]</value>
+      <webElementGuid>6293b2c5-7fcb-42b7-b4a1-2f88d378ddf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Package'])[1]/following::button[1]</value>
+      <webElementGuid>696a9c1e-cd61-437d-b7c4-364cb382b432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Materi Belajar'])[1]/following::button[1]</value>
+      <webElementGuid>cafea9b8-08f2-4a7a-a9ac-1feb39317faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Diri'])[1]/preceding::button[1]</value>
+      <webElementGuid>0a7d5763-ed4d-4803-b6b2-6a15fb7ca94e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='benar'])[1]/preceding::button[1]</value>
+      <webElementGuid>bad9bb35-42e3-4e41-a5e1-75a47c1fda51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ganti materi belajar']/parent::*</value>
+      <webElementGuid>364a3d18-056c-4d38-9d50-aeba64dabcb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/button</value>
+      <webElementGuid>11b1bf42-7ec9-4e89-8300-5c28ed7c1f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Ganti materi belajar ' or . = ' Ganti materi belajar ')]</value>
+      <webElementGuid>efd1fa1c-9d16-481c-a32b-f31f7cfbd443</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

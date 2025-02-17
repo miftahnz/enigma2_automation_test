@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_(Opsional)_check-iconFailed</name>
+   <tag></tag>
+   <elementGuidId>32831df7-2304-44d2-b2b1-e1b53f00eb01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#check-iconFailed > #check-iconFailed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@id='check-iconFailed']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>07cbfb6a-a1f9-4729-8cbe-b4dff71aee4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-regular fa-square</value>
+      <webElementGuid>81562a48-0471-45a6-88f8-583b140b4b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>check-iconFailed</value>
+      <webElementGuid>2bbd34fa-a729-4b08-b83f-784f87926911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-register&quot;)/div[@class=&quot;row floating-label&quot;]/div[@class=&quot;col-12 d-flex align-items-start&quot;]/div[@class=&quot;col-1 text-end&quot;]/a[@id=&quot;check-iconFailed&quot;]/i[@id=&quot;check-iconFailed&quot;]</value>
+      <webElementGuid>5738f11c-7943-4c6b-b9cf-7187f45d3958</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@id='check-iconFailed']</value>
+      <webElementGuid>36e0f5f3-fe13-4e68-b216-788c4c90d99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='check-iconFailed']/i</value>
+      <webElementGuid>dcdfd867-8039-4518-a7ec-f44c61ac1693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>80e5346d-f246-4767-8a9b-30a3c58220da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@id = 'check-iconFailed']</value>
+      <webElementGuid>57efe47b-fc9f-43c1-bd86-cc13770e84d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

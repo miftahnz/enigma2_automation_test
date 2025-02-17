@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Syarat dan Ketentuan Privy</name>
+   <tag></tag>
+   <elementGuidId>49e24fb6-16e7-4385-ae6c-85f3c25717f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(5) > a:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='paragraf-18']/p[5]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f170be32-278c-4fb8-ac15-722eb189df32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://privy.id/id/ketentuan-penggunaan</value>
+      <webElementGuid>cda88142-98be-46f6-9650-46a8030152c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>eb6d9fbf-be1f-4474-bba5-093a5a59b930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan Ketentuan Privy</value>
+      <webElementGuid>5e04084b-c095-44bc-b3ff-91545d3aedf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paragraf-18&quot;)/p[5]/a[2]</value>
+      <webElementGuid>7e7a9eee-6e2a-4ca8-979d-ee51a71e892a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='paragraf-18']/p[5]/a[2]</value>
+      <webElementGuid>9790b2aa-d0f1-4174-882c-503cd3584527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Syarat dan Ketentuan Privy')]</value>
+      <webElementGuid>78082255-20f6-49b8-8d0b-66cb1212bc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[2]/following::a[1]</value>
+      <webElementGuid>17a22ab7-fc11-43db-9f14-5705aa0b7675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanda Tangan Elektronik Menggunakan PrivyID'])[1]/following::a[2]</value>
+      <webElementGuid>d5c56a14-01c1-4ea2-a3a8-f032191b46c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, saya setuju'])[1]/preceding::a[1]</value>
+      <webElementGuid>dce6825e-6b8d-4074-89c0-764330206970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Email'])[1]/preceding::a[1]</value>
+      <webElementGuid>bea44b3a-c5ef-41eb-af90-7293dcd3f747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Syarat dan Ketentuan Privy']/parent::*</value>
+      <webElementGuid>788ed03c-30e9-4fa1-b3b6-1da7d0180ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://privy.id/id/ketentuan-penggunaan')]</value>
+      <webElementGuid>e58041ee-da3e-49ce-b891-da5bfa89a535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/a[2]</value>
+      <webElementGuid>c14c2b61-1727-4f18-8bd6-98115b00a2ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://privy.id/id/ketentuan-penggunaan' and (text() = 'Syarat dan Ketentuan Privy' or . = 'Syarat dan Ketentuan Privy')]</value>
+      <webElementGuid>01aeb93c-d2ff-479b-b9d7-4df9b3acb2d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

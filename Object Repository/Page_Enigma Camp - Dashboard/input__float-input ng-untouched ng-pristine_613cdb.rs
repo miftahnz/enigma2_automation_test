@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__float-input ng-untouched ng-pristine_613cdb</name>
+   <tag></tag>
+   <elementGuidId>72fa789c-a11b-4924-b29f-e77a90c5dd10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.float-input.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a9fc6043-e356-4358-a601-d0f069c52d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3fafd0d9-6feb-4222-ae9f-c8b2d7a1b0fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>float-input ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>86899d5a-256b-4d5c-bf60-222bb725d47b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>1d6d7f74-3a75-4b55-9a7e-e10069f10c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default              pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;bg-white p-4 d-flex flex-column&quot;]/form[@class=&quot;ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;mt-3 mt-md-0&quot;]/div[@class=&quot;row row-mb m-0 w-100 ng-star-inserted&quot;]/div[@class=&quot;col-12 col-lg-6 border-right border-none-mb border-dark px-0 pr-lg-3&quot;]/div[@class=&quot;floating-group mb-3&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/input[@class=&quot;float-input ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>70b474d8-cb05-4a21-af54-872fc52b2bba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>843e255e-3a46-4971-96aa-c5b39ec96de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>99452f77-a94c-43b5-a551-adea44061502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>8ac5dc47-c3e3-4d77-bdc7-becfba6fcf2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

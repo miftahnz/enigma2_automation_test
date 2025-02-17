@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sebelum melanjutkan, mohon konfirmasi _161a70</name>
+   <tag></tag>
+   <elementGuidId>4b27f731-801d-4026-9363-5bc6cf8382d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-5']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b9342b1-12aa-4557-8ba3-3af1c6b4635c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>8ce37331-fd28-4d1e-8513-2344db1f8a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-5&quot;)/nb-dialog-container[1]/ngx-preview-tnc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;col-12 col-lg-8 col-md-10 h-75&quot;]/nb-card[@class=&quot;border-none accent accent-primary&quot;]/nb-card-body[@class=&quot;border-none&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row mb-2 ng-star-inserted&quot;]/div[@class=&quot;col-1 mt-1&quot;]/nb-checkbox[@class=&quot;status-basic nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>bb100710-caca-4416-a20b-e9cd12d5e767</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-5']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>36f0c84d-aa31-4bf8-a11c-0826752187c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelum melanjutkan, mohon konfirmasi pernyataan di bawah ini!'])[1]/following::span[1]</value>
+      <webElementGuid>bd34bfff-5633-435c-8419-ba3224504ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/following::span[1]</value>
+      <webElementGuid>bec56057-b092-43ea-b6a8-cf95f899a66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya sudah lulus SMA/SMK/S1/sederajat atau menempuh semester akhir.'])[1]/preceding::span[2]</value>
+      <webElementGuid>30a8c4a9-ed97-4cee-ae1f-2bada05c9d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya bersedia mengikuti kelas inkubasi.'])[1]/preceding::span[4]</value>
+      <webElementGuid>92a34b12-6964-458f-b6e8-4882fc95e6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>a1237e65-b1d1-4d8c-ba78-c61f11ddfff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
