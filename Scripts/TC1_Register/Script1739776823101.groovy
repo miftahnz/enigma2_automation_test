@@ -17,7 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import java.util.Random as Random
-
 import javax.swing.JOptionPane as JOptionPane
 
 def firstNames = ['Ahmad', 'Budi', 'Citra', 'Diana', 'Faris']
@@ -35,6 +34,8 @@ def randomFullName = (randomFirstName + ' ') + randomLastName
 def randomEmail = (((randomFirstName.toLowerCase() + '.') + randomLastName.toLowerCase()) + random.nextInt(900)) + '@gmail.com'
 
 def randomPhoneNumber = '08' + (100000000 + random.nextInt(900000000))
+
+GlobalVariable.registeredEmail = randomEmail
 
 WebUI.openBrowser('')
 
@@ -73,7 +74,7 @@ WebUI.scrollToElement(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/a_
 
 WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/button_Ya, saya setuju'))
 
-// Menampilkan input dialog
+// Manual Input untuk Captcha
 String userInput = JOptionPane.showInputDialog('Masukkan nilai untuk melanjutkan:')
 
 println('Input yang diberikan: ' + userInput)
@@ -83,5 +84,7 @@ WebUI.setText(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/input_Setu
 
 WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/button_Submit'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/img_Ya, saya setuju_hide-modal-success-register'))
+
+WebUI.click(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/a_Sudah memiliki akun  Sign In'))
 

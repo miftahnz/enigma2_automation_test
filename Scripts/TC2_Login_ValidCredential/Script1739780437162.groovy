@@ -17,28 +17,36 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+import com.kms.katalon.core.util.KeywordUtil
 
-WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/login')
+// Menggunakan nama yang sudah di-generate
+String usedRegisteredEmail = GlobalVariable.registeredEmail
 
-WebUI.maximizeWindow()
+not_run: WebUI.openBrowser('')
+
+not_run: WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/login')
+
+not_run: WebUI.maximizeWindow()
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/img'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/label_Masuk Dashboard'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_Masuk Dashboard_username'), 'user.automation.dev@yopmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_Masuk Dashboard_username'), usedRegisteredEmail)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_Email_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/button_Masuk'))
 
-TestObject buttonSayaMengerti = findTestObject('Page_Enigma Camp - Dashboard/button_Saya mengerti');
+TestObject buttonSayaMengerti = findTestObject('Page_Enigma Camp - Dashboard/button_Saya mengerti')
+
 if (WebUI.waitForElementPresent(buttonSayaMengerti, 5)) {
-	WebUI.click(buttonSayaMengerti)
+    WebUI.click(buttonSayaMengerti)
+
     WebUI.comment('Popup muncul, tombol diklik.')
 }
 
 WebUI.click(findTestObject('Object Repository/Page_Enigma Camp - Dashboard/span_User Automation Dev'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Enigma Camp - Dashboard/span_User Automation Dev'), 'User Automation Dev!')
+
