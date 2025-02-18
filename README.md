@@ -1,35 +1,28 @@
-Automation Testing with Katalon Studio
+# Automation Testing with Katalon Studio
 
-📌 Overview
+## 📌 Overview
 
-Repository ini berisi automation testing project yang dibuat menggunakan Katalon Studio. Proyek ini bertujuan untuk mengotomatisasi pengujian aplikasi guna memastikan kualitas dan stabilitas sebelum dirilis ke pengguna.
+Repository ini berisi automation testing project yang dibuat menggunakan **Katalon Studio**. Proyek ini bertujuan untuk mengotomatisasi pengujian aplikasi guna memastikan kualitas dan stabilitas sebelum dirilis ke pengguna.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Katalon Studio Free (v9.5.0)
+- **Katalon Studio** **Free** (v9.5.0)
+- **Groovy** (Sebagai bahasa scripting)
+- **Selenium WebDriver** (Digunakan dalam Katalon)
+- **Jenkins** (Opsional, untuk CI/CD)
+- **Git** (Versi kontrol)
 
-Groovy (Sebagai bahasa scripting)
+## 🚀 Features
 
-Selenium WebDriver (Digunakan dalam Katalon)
+- Automasi pengujian untuk **Web**
+- Data-driven testing
+- Reporting hasil pengujian
+- Integrasi dengan CI/CD pipeline
+- Penggunaan Page Object Model (POM) untuk struktur yang lebih terorganisir
 
-Jenkins (Opsional, untuk CI/CD)
+## 📂 Project Structure
 
-Git (Versi kontrol)
-
-🚀 Features
-
-Automasi pengujian untuk Web
-
-Data-driven testing
-
-Reporting hasil pengujian
-
-Integrasi dengan CI/CD pipeline
-
-Penggunaan Page Object Model (POM) untuk struktur yang lebih terorganisir
-
-📂 Project Structure
-
+```
 📦 automation-testing-katalon
  ┣ 📂 Test Cases          # Berisi test case yang dibuat dalam Katalon
  ┣ 📂 Object Repository   # Berisi kumpulan object yang digunakan dalam pengujian
@@ -37,60 +30,54 @@ Penggunaan Page Object Model (POM) untuk struktur yang lebih terorganisir
  ┣ 📂 Data Files         # Berisi data testing (CSV, Excel, Database, dll.)
  ┣ 📂 Reports            # Berisi hasil eksekusi test (Log, Screenshots, dll.)
  ┗ 📜 README.md          # Dokumentasi project
+```
 
-🔧 Setup & Installation
+## 🔧 Setup & Installation
 
-Clone repository ini:
+1. **Clone repository** ini:
+   ```sh
+   git clone https://github.com/miftahnz/enigma2_automation_test.git
+   ```
+2. **Install Katalon Studio** dari [situs resmi](https://www.katalon.com/).
+3. **Buka proyek di Katalon Studio**.
+4. **Konfigurasi environment** (saat belum ada).
+5. **Jalankan test suite** sesuai kebutuhan.
 
-git clone https://github.com/miftahnz/enigma2_automation_test.git
+## ▶️ How to Run Tests
 
-Install Katalon Studio dari situs resmi.
+- **Melalui Katalon Studio**:
+  1. Buka Katalon Studio dan load project.
+  2. Pilih **Test Suite** yang ingin dijalankan.
+  3. Klik tombol **Run** untuk menjalankan pengujian.
 
-Buka proyek di Katalon Studio.
+## 📊 Reporting
 
-Konfigurasi environment (saat belum ada).
+Hasil pengujian akan tersimpan dalam folder `Reports/` dan dapat dilihat dalam format berikut:
 
-Jalankan test suite sesuai kebutuhan.
+- **HTML**
+- **JUnit Report**
+- **Katalon Built-in Report**
+- **Screenshots (jika ada error/failure)**
 
-▶️ How to Run Tests
+## 🛠 CI/CD Integration (has not been implemented)
 
-Melalui Katalon Studio:
+Untuk menjalankan test secara otomatis di **Jenkins**, tambahkan perintah berikut pada build script:
 
-Buka Katalon Studio dan load project.
-
-Pilih Test Suite yang ingin dijalankan.
-
-Klik tombol Run untuk menjalankan pengujian.
-
-📊 Reporting
-
-Hasil pengujian akan tersimpan dalam folder Reports/ dan dapat dilihat dalam format berikut:
-
-HTML
-
-JUnit Report
-
-Katalon Built-in Report
-
-Screenshots (jika ada error/failure)
-
-🛠 CI/CD Integration (has not been implemented)
-
-Untuk menjalankan test secara otomatis di Jenkins, tambahkan perintah berikut pada build script:
-
+```sh
 katalon -noSplash -runMode=console -projectPath="$WORKSPACE" -testSuitePath="Test Suites/RegressionTest" -browserType="Chrome" -reportFolder="$WORKSPACE/Reports"
+```
 
-📝 Contribution Guide
+## 📝 Contribution Guide
 
-Fork repository ini dan buat branch baru untuk perubahan.
+1. **Fork repository ini** dan buat branch baru untuk perubahan.
+2. **Commit perubahan** dengan pesan yang jelas.
+3. **Buat Pull Request** ke branch `master atau ``dev`.
 
-Commit perubahan dengan pesan yang jelas.
+## 📌 License
 
-Buat Pull Request ke branch master atau ``dev.
+Proyek ini menggunakan lisensi **MIT License**.
 
-📌 License
+---
 
-Proyek ini menggunakan lisensi MIT License.
-
-📩 Jika ada pertanyaan atau saran, silakan buka Issue atau hubungi saya melalui email!
+📩 Jika ada pertanyaan atau saran, silakan buka **Issue** atau hubungi saya melalui email!
 
