@@ -9,4 +9,9 @@
       <initValue>''</initValue>
       <name>registeredEmail</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>fullname</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

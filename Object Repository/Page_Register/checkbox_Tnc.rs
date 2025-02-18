@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Setujui syarat dan ketentuan untuk bergab_cd416e</name>
+   <name>checkbox_Tnc</name>
    <tag></tag>
    <elementGuidId>840600b6-bd7a-45b9-8325-f57c76325b63</elementGuidId>
    <selectorCollection>

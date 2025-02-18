@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Daftar Akun Baru_fullname</name>
+   <name>input_Captcha</name>
    <tag></tag>
-   <elementGuidId>74d38a0b-da74-43a5-a1d5-8c46d7730d34</elementGuidId>
+   <elementGuidId>0eccda06-98d0-426d-9d5d-e62535aeb742</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#fullname</value>
+         <value>#captcha</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='fullname']</value>
+         <value>//input[@id='captcha']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,39 +23,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ef72cbcb-6b8a-4a6e-9766-5c664ef8a72e</webElementGuid>
+      <webElementGuid>bb8a1b7e-3ff8-4db5-9024-6f7932b5e9fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>17e7b148-d340-444f-a04d-75f22c712896</webElementGuid>
+      <value>8</value>
+      <webElementGuid>3e728d55-6cb1-46d2-9bc9-a0d05fc98be8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>fullname</value>
-      <webElementGuid>20d9da5a-0b71-4010-be44-fddb4869b1a9</webElementGuid>
+      <value>captcha</value>
+      <webElementGuid>46918c0e-85f5-4434-b2a4-36b681d8f74a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>fullname</value>
-      <webElementGuid>a93abc40-b99b-421f-9b1f-4eff777bbcba</webElementGuid>
+      <value>captcha</value>
+      <webElementGuid>41a921c5-6935-4e41-a0a9-9b3e5b8187aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>floating-input text-medium color-medium input form-control font-size-14 invalid-input</value>
-      <webElementGuid>9eb81c9a-1bc1-4f4c-949a-00e643ce735e</webElementGuid>
+      <value>floating-input text-medium color-medium form-control font-size-14 invalid-input</value>
+      <webElementGuid>d95ddef4-e5ce-4b5e-9655-eedf100e4f0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,62 +63,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>95746aa7-b1fd-4cf7-bfb2-a757382b172f</webElementGuid>
+      <webElementGuid>82f1c04a-c2a2-4395-ba92-3e1e2b9c94e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Fullname</value>
-      <webElementGuid>82ca593f-34ce-44ad-8e3a-98594ac9ae5f</webElementGuid>
+      <value>captcha</value>
+      <webElementGuid>da267b28-d79d-4f24-8c21-040bf7ebafc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>Fullname</value>
-      <webElementGuid>f2a7fa8a-5db6-45d2-98c0-1d507a91bac7</webElementGuid>
+      <value>captcha</value>
+      <webElementGuid>a7806abd-2f88-4775-afa7-36b819ece572</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fullname&quot;)</value>
-      <webElementGuid>26df2f96-f1b8-431f-a325-41b95fc6c714</webElementGuid>
+      <value>id(&quot;captcha&quot;)</value>
+      <webElementGuid>f5986752-2887-4018-af2f-87018ddc8dd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='fullname']</value>
-      <webElementGuid>0e701633-96b2-4fe9-ae15-53dec2476013</webElementGuid>
+      <value>//input[@id='captcha']</value>
+      <webElementGuid>fb5a208a-f475-428f-a8ea-c748646b7724</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-register']/div/div/div[2]/input</value>
-      <webElementGuid>52db6243-7ea7-440a-a28d-ae0b30a9615f</webElementGuid>
+      <value>//form[@id='form-register']/div[11]/div/div[2]/input</value>
+      <webElementGuid>91411b54-401d-40da-81b6-51741319001c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>92238306-2a82-48d4-9a16-73142d7adb74</webElementGuid>
+      <value>//div[11]/div/div[2]/input</value>
+      <webElementGuid>4083b5b1-6a7f-40f4-af44-99118c1606f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'fullname' and @name = 'fullname' and @type = 'text']</value>
-      <webElementGuid>dcff7a8f-c8a5-4758-b8eb-2c05082e255e</webElementGuid>
+      <value>//input[@id = 'captcha' and @name = 'captcha' and @type = 'text']</value>
+      <webElementGuid>f05baf5b-fc10-4f1b-913f-05d3d3960284</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

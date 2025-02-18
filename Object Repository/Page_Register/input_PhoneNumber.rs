@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Setujui syarat dan ketentuan untuk be_d95a67</name>
+   <name>input_PhoneNumber</name>
    <tag></tag>
-   <elementGuidId>0eccda06-98d0-426d-9d5d-e62535aeb742</elementGuidId>
+   <elementGuidId>936e6ce1-d599-4d17-b243-c6064417af66</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#captcha</value>
+         <value>#phone</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='captcha']</value>
+         <value>//input[@id='phone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,39 +23,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bb8a1b7e-3ff8-4db5-9024-6f7932b5e9fc</webElementGuid>
+      <webElementGuid>fee7dd81-b735-4127-b298-c215a9b66b4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>8</value>
-      <webElementGuid>3e728d55-6cb1-46d2-9bc9-a0d05fc98be8</webElementGuid>
+      <value>3</value>
+      <webElementGuid>d0cd5cdd-f04e-4338-9061-257afa7ead91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>captcha</value>
-      <webElementGuid>46918c0e-85f5-4434-b2a4-36b681d8f74a</webElementGuid>
+      <value>phone</value>
+      <webElementGuid>7c02bf37-c931-4ecb-bc01-7a5f557cc756</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>captcha</value>
-      <webElementGuid>41a921c5-6935-4e41-a0a9-9b3e5b8187aa</webElementGuid>
+      <value>phone</value>
+      <webElementGuid>c4f55cdb-581e-4065-9f7b-00f0c7aba468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>floating-input text-medium color-medium form-control font-size-14 invalid-input</value>
-      <webElementGuid>d95ddef4-e5ce-4b5e-9655-eedf100e4f0b</webElementGuid>
+      <value>floating-input text-medium color-medium form-control font-size-14</value>
+      <webElementGuid>936f2a3b-7c5f-47cd-956d-72638d083abb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,62 +63,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>82f1c04a-c2a2-4395-ba92-3e1e2b9c94e5</webElementGuid>
+      <webElementGuid>0fb3550b-9614-4850-9f48-9f81b895ffe5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>captcha</value>
-      <webElementGuid>da267b28-d79d-4f24-8c21-040bf7ebafc7</webElementGuid>
+      <value>phone</value>
+      <webElementGuid>e0f3f2ce-6bda-486d-836a-b1c87ff36c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>captcha</value>
-      <webElementGuid>a7806abd-2f88-4775-afa7-36b819ece572</webElementGuid>
+      <value>phone</value>
+      <webElementGuid>abf6fe16-ea04-46a7-b342-f5878b1d45d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;captcha&quot;)</value>
-      <webElementGuid>f5986752-2887-4018-af2f-87018ddc8dd9</webElementGuid>
+      <value>id(&quot;phone&quot;)</value>
+      <webElementGuid>a6d30517-1207-4a6b-87cc-03a2a82e1d71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='captcha']</value>
-      <webElementGuid>fb5a208a-f475-428f-a8ea-c748646b7724</webElementGuid>
+      <value>//input[@id='phone']</value>
+      <webElementGuid>fe8c488e-5c0d-4047-9645-31ba6cbe7658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-register']/div[11]/div/div[2]/input</value>
-      <webElementGuid>91411b54-401d-40da-81b6-51741319001c</webElementGuid>
+      <value>//form[@id='form-register']/div[3]/div/div[2]/input</value>
+      <webElementGuid>4f73b2d7-7a8f-4c6f-961c-a2cfbc7d8bd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[11]/div/div[2]/input</value>
-      <webElementGuid>4083b5b1-6a7f-40f4-af44-99118c1606f6</webElementGuid>
+      <value>//div[3]/div/div[2]/input</value>
+      <webElementGuid>3b3b7090-d0cf-453f-8744-481c81899445</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'captcha' and @name = 'captcha' and @type = 'text']</value>
-      <webElementGuid>f05baf5b-fc10-4f1b-913f-05d3d3960284</webElementGuid>
+      <value>//input[@id = 'phone' and @name = 'phone' and @type = 'text']</value>
+      <webElementGuid>27da1634-d2d7-431e-9c51-ec6ab652e3c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

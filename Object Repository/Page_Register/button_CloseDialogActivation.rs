@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Ya, saya setuju_hide-modal-success-register</name>
+   <name>button_CloseDialogActivation</name>
    <tag></tag>
    <elementGuidId>cde2df0b-5f50-4e89-b53a-335c98f8b5ca</elementGuidId>
    <selectorCollection>

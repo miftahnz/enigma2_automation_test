@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No Telepon_birthdate</name>
+   <name>input_Birthdate</name>
    <tag></tag>
    <elementGuidId>ebbd9ad6-5690-4e5e-bb41-9c029c4761fb</elementGuidId>
    <selectorCollection>

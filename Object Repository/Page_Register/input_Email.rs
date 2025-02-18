@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_phone</name>
+   <name>input_Email</name>
    <tag></tag>
-   <elementGuidId>936e6ce1-d599-4d17-b243-c6064417af66</elementGuidId>
+   <elementGuidId>fcbb1bb3-e8a3-42cf-a763-ade8f44a1367</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#phone</value>
+         <value>#email</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='phone']</value>
+         <value>//input[@id='email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,31 +23,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fee7dd81-b735-4127-b298-c215a9b66b4c</webElementGuid>
+      <webElementGuid>b848cff1-1f35-4e72-879a-c53ded7ac987</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>d0cd5cdd-f04e-4338-9061-257afa7ead91</webElementGuid>
+      <value>2</value>
+      <webElementGuid>03c93df1-e80a-499c-a164-974028c73a82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>phone</value>
-      <webElementGuid>7c02bf37-c931-4ecb-bc01-7a5f557cc756</webElementGuid>
+      <value>email</value>
+      <webElementGuid>07b2b04e-acba-443a-a711-8189bdde68b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>phone</value>
-      <webElementGuid>c4f55cdb-581e-4065-9f7b-00f0c7aba468</webElementGuid>
+      <value>email</value>
+      <webElementGuid>36e74cd9-4ee3-4c95-975b-562cd73d1964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>floating-input text-medium color-medium form-control font-size-14</value>
-      <webElementGuid>936f2a3b-7c5f-47cd-956d-72638d083abb</webElementGuid>
+      <webElementGuid>16b39f08-f77e-4352-8510-70c4d9616dc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,62 +63,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0fb3550b-9614-4850-9f48-9f81b895ffe5</webElementGuid>
+      <webElementGuid>7637834c-6e36-4013-8d51-b0e48efc941b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>phone</value>
-      <webElementGuid>e0f3f2ce-6bda-486d-836a-b1c87ff36c36</webElementGuid>
+      <value>email</value>
+      <webElementGuid>85a29c24-b56e-4511-bc6d-2304aeb17f63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>phone</value>
-      <webElementGuid>abf6fe16-ea04-46a7-b342-f5878b1d45d4</webElementGuid>
+      <value>email</value>
+      <webElementGuid>4d4d58d8-961f-4bca-bca8-7e474a7675d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;phone&quot;)</value>
-      <webElementGuid>a6d30517-1207-4a6b-87cc-03a2a82e1d71</webElementGuid>
+      <value>id(&quot;email&quot;)</value>
+      <webElementGuid>e2bbc94c-2607-4cd8-87ff-4c38c022714f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='phone']</value>
-      <webElementGuid>fe8c488e-5c0d-4047-9645-31ba6cbe7658</webElementGuid>
+      <value>//input[@id='email']</value>
+      <webElementGuid>e9aa156e-6db1-47ae-8345-4e5436595b5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-register']/div[3]/div/div[2]/input</value>
-      <webElementGuid>4f73b2d7-7a8f-4c6f-961c-a2cfbc7d8bd7</webElementGuid>
+      <value>//form[@id='form-register']/div[2]/div/div[2]/input</value>
+      <webElementGuid>d25a4196-c5f7-4764-a265-08d5a950d474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div[2]/input</value>
-      <webElementGuid>3b3b7090-d0cf-453f-8744-481c81899445</webElementGuid>
+      <value>//div[2]/div/div[2]/input</value>
+      <webElementGuid>2d4d0079-e298-46f4-8323-9a830a670d5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'phone' and @name = 'phone' and @type = 'text']</value>
-      <webElementGuid>27da1634-d2d7-431e-9c51-ec6ab652e3c8</webElementGuid>
+      <value>//input[@id = 'email' and @name = 'email' and @type = 'text']</value>
+      <webElementGuid>d8b7cc70-11a1-4788-b806-f881e4991a1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

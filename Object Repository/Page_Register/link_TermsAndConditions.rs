@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Syarat dan Ketentuan Privy</name>
+   <name>link_TermsAndConditions</name>
    <tag></tag>
    <elementGuidId>49e24fb6-16e7-4385-ae6c-85f3c25717f4</elementGuidId>
    <selectorCollection>

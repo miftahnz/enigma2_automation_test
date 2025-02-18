@@ -110,7 +110,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Enigma Camp - Dashboard/iframe_Panduan TC_w-100</value>
+      <value>Object Repository/Page_Dashboard/iframe_Panduan TC_w-100</value>
       <webElementGuid>e78d7e64-4508-4b41-8073-5d627ac5df0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>

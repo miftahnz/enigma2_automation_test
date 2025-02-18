@@ -19,37 +19,37 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import javax.swing.JOptionPane as JOptionPane
 
+// Buka browser dan navigasi ke halaman login
 WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/login')
-
 WebUI.maximizeWindow()
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/img'))
+// Verifikasi elemen penting di halaman login
+TestObject loginImage = findTestObject('Page_Login/img')
+TestObject loginLabel = findTestObject('Page_Login/label_Masuk Dashboard')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/label_Masuk Dashboard'))
+WebUI.verifyElementVisible(loginImage)
+WebUI.verifyElementVisible(loginLabel)
 
-String email = GlobalVariable.registeredEmail
+// Ambil email dari GlobalVariable atau minta input jika kosong
+String email = GlobalVariable.registeredEmail.isBlank() ?
+	JOptionPane.showInputDialog('Masukkan email:') :
+	GlobalVariable.registeredEmail
 
-if(email.isBlank()) {
-	email = JOptionPane.showInputDialog('Masukkan email:')
-}
+// Input email dan password
+WebUI.setText(findTestObject('Page_Login/input_username'), email)
+WebUI.setEncryptedText(findTestObject('Page_Login/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_username'), email)
+// Klik tombol login
+WebUI.click(findTestObject('Page_Login/button_login'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.click(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/button_login'))
-
-TestObject buttonSayaMengerti = findTestObject('Page_Enigma Camp - Dashboard/button_Saya mengerti')
+// Menunggu dan menangani popup jika muncul
+TestObject buttonSayaMengerti = findTestObject('Page_Dashboard/button_Saya mengerti')
 
 if (WebUI.waitForElementPresent(buttonSayaMengerti, 5)) {
-    WebUI.click(buttonSayaMengerti)
-
-    WebUI.comment('Popup muncul, tombol diklik.')
+	WebUI.click(buttonSayaMengerti)
+	WebUI.comment('Popup muncul, tombol diklik.')
 }
 
-WebUI.click(findTestObject('Object Repository/Page_Enigma Camp - Dashboard/span_User Automation Dev'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Enigma Camp - Dashboard/span_User Automation Dev'), 'User Automation Dev!')
-
+// Verifikasi navigasi ke dashboard
+WebUI.verifyMatch(WebUI.getUrl(), 'https://dev.enigmacamp.com/apps/portal/dashboard', false)

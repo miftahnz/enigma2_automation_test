@@ -21,110 +21,93 @@ import javax.swing.JOptionPane as JOptionPane
 import java.io.File as File
 import java.io.FileWriter as FileWriter
 
-// Step 1: Generate random user data
-def firstNames = ['Ahmad', 'Budi', 'Citra', 'Diana', 'Faris']
-
-def lastNames = ['Sutanto', 'Ariani', 'Pratama', 'Rini', 'Sakti']
-
+// ==========================
+// STEP 1: Generate User Data
+// ==========================
 Random random = new Random()
 
-def randomFirstName = firstNames[random.nextInt(firstNames.size())]
+def firstNames = ['Ahmad', 'Budi', 'Citra', 'Diana', 'Faris']
+def lastNames = ['Sutanto', 'Ariani', 'Pratama', 'Rini', 'Sakti']
 
-def randomLastName = lastNames[random.nextInt(lastNames.size())]
+String randomFirstName = firstNames[random.nextInt(firstNames.size())]
+String randomLastName = lastNames[random.nextInt(lastNames.size())]
+String randomFullName = "${randomFirstName} ${randomLastName}"
+String randomEmail = "${randomFirstName.toLowerCase()}.${randomLastName.toLowerCase()}${random.nextInt(900)}@yopmail.com"
+String randomPhoneNumber = "08${100000000 + random.nextInt(900000000)}"
 
-def randomFullName = (randomFirstName + ' ') + randomLastName
+// =========================================
+// STEP 2: Open Browser & Navigate to Page
+// =========================================
+WebUI.openBrowser('')
+WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/register')
 
-def randomEmail = (((randomFirstName.toLowerCase() + '.') + randomLastName.toLowerCase()) + random.nextInt(900)) + '@yopmail.com'
+// ========================================
+// STEP 3: Fill in Registration Form
+// ========================================
+WebUI.setText(findTestObject('Page_Register/input_Fullname'), randomFullName)
+WebUI.setText(findTestObject('Page_Register/input_Email'), randomEmail)
+WebUI.setText(findTestObject('Page_Register/input_PhoneNumber'), randomPhoneNumber)
 
-def randomPhoneNumber = '08' + (100000000 + random.nextInt(900000000))
+// Set Birthdate
+WebUI.click(findTestObject('Page_Register/input_Birthdate'))
+WebUI.click(findTestObject('Page_Register/td_6'))
 
+// ========================================
+// STEP 4: Set Password
+// ========================================
+String encryptedPassword = 'iFGeFYmXIrUhQZHvW7P22w=='
+
+WebUI.setEncryptedText(findTestObject('Page_Register/input_Password'), encryptedPassword)
+WebUI.click(findTestObject('Page_Register/button_Kata Sandi_btn-ghost'))
+WebUI.click(findTestObject('Page_Register/i_Kata Sandi_hide_eye'))
+WebUI.setEncryptedText(findTestObject('Page_Register/input_Kata Sandi_cpassword'), encryptedPassword)
+
+// ========================================
+// STEP 5: Accept Terms & Conditions
+// ========================================
+WebUI.click(findTestObject('Page_Register/i_(Opsional)_check-iconFailed'))
+WebUI.click(findTestObject('Page_Register/checkbox_Tnc'))
+WebUI.scrollToElement(findTestObject('Page_Register/link_TermsAndConditions'), 5)
+WebUI.click(findTestObject('Page_Register/button_TncAgree'))
+
+// ========================================
+// STEP 6: Manual CAPTCHA Input
+// ========================================
+String userInput = JOptionPane.showInputDialog('Masukkan Captcha untuk melanjutkan:')
+WebUI.setText(findTestObject('Page_Register/input_Captcha'), userInput)
+
+// ========================================
+// STEP 7: Submit Registration
+// ========================================
+WebUI.click(findTestObject('Page_Register/button_Submit'))
+
+// ========================================
+// STEP 8: Activate Account
+// ========================================
+JOptionPane.showInputDialog('Klik OK jika kamu sudah konfirmasi email secara manual')
+WebUI.click(findTestObject('Page_Register/button_CloseDialogActivation'))
+
+// ========================================
+// STEP 9: Save Registered Email
+// ========================================
 GlobalVariable.registeredEmail = randomEmail
 
-// Step 2: Save generated email to CSV
 String filePath = 'Data Files/generated_emails.csv'
-
 File file = new File(filePath)
-
-// Step 3: Check if file exists and add header if new
-boolean isNewFile = !(file.exists())
-
+boolean isNewFile = !file.exists()
 FileWriter writer = new FileWriter(file, true)
 
 if (isNewFile) {
-    writer.append('Email\n' // Header CSV
-        )
+	writer.append('Email\n') // Add header if new file
 }
 
-// Step 4: Write email to CSV file
 writer.append(randomEmail + '\n')
-
-// Step 5: Close writer
 writer.flush()
-
 writer.close()
+println("Email saved: ${randomEmail}")
 
-println('Email saved: ' + randomEmail)
-
-// Step 6: Open browser and perform registration actions
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/register')
-
-// Step 7: Fill in registration form
-WebUI.setText(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/input_Daftar Akun Baru_fullname'), 
-    randomFullName)
-
-WebUI.setText(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/input_Nama Lengkap_email'), randomEmail)
-
-WebUI.setText(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/input_Email_phone'), randomPhoneNumber)
-
-WebUI.setText(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/input_No Telepon_birthdate'), '')
-
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/input_No Telepon_birthdate'))
-
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/td_6'))
-
-// Step 8: Set encrypted password
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/input_Tanggal Lahir_password'), 
-    'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/button_Kata Sandi_btn-ghost'))
-
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/i_Kata Sandi_hide_eye'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/input_Kata Sandi_cpassword'), 
-    'iFGeFYmXIrUhQZHvW7P22w==')
-
-// Step 9: Accept terms and conditions
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/i_(Opsional)_check-iconFailed'))
-
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/i_Setujui syarat dan ketentuan untuk bergab_cd416e'))
-
-WebUI.scrollToElement(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/a_Syarat dan Ketentuan Privy'), 5)
-
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/button_Ya, saya setuju'))
-
-// Step 10: Manual CAPTCHA input
-String userInput = JOptionPane.showInputDialog('Masukkan nilai untuk melanjutkan:')
-
-println('Input yang diberikan: ' + userInput)
-
-WebUI.setText(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/input_Setujui syarat dan ketentuan untuk be_d95a67'), 
-    userInput)
-
-// Step 11: Submit registration
-WebUI.click(findTestObject('Object Repository/Page_Register - Enigmacamp Bootcamp 2.0/button_Submit'))
-
-WebUI.click(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/img_Ya, saya setuju_hide-modal-success-register'))
-
-// Step 12: Navigate to sign-in page
-not_run: WebUI.click(findTestObject('Page_Register - Enigmacamp Bootcamp 2.0/a_Sudah memiliki akun  Sign In'))
-
-
-String activateAccount = JOptionPane.showInputDialog('Klik OK jika kamu sudah konfirmasi email secara manual')
-
-// Step 13: Close browser
+// ========================================
+// STEP 10: Close Browser
+// ========================================
 WebUI.closeBrowser()
-
