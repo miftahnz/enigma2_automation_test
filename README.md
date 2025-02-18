@@ -71,7 +71,7 @@ katalon -noSplash -runMode=console -projectPath="$WORKSPACE" -testSuitePath="Tes
 
 1. **Fork repository ini** dan buat branch baru untuk perubahan.
 2. **Commit perubahan** dengan pesan yang jelas.
-3. **Buat Pull Request** ke branch `master atau ``dev`.
+3. **Buat Pull Request** ke branch `master atau dev`.
 
 ## 📌 License
 

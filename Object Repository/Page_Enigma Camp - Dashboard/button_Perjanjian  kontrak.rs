@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ee7b08d0-3036-4fd1-a292-b1d36f54d6a8</webElementGuid>
+      <webElementGuid>15ed281a-f119-4adb-af54-44b2f873cd47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>routerlink</name>
       <type>Main</type>
       <value>/contract/signing</value>
-      <webElementGuid>ce742d0a-6cfe-4cc4-b016-4fe6505a2141</webElementGuid>
+      <webElementGuid>55090dea-e4f4-49e8-b32c-3c042a671021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>606b83a4-f023-4243-a0c8-416a0967dcaa</webElementGuid>
+      <webElementGuid>dd366345-ecad-42f5-8594-ddf6c07f9d54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>491d9f24-bbf6-40cf-9a20-be330727472d</webElementGuid>
+      <webElementGuid>5079d2dc-77ea-4144-9f2f-c7defb4d7bed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>2013144e-6718-43d2-9b80-339549ff0307</webElementGuid>
+      <webElementGuid>0dba633a-adcc-4bee-986f-0ebb3ddf7c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition</value>
-      <webElementGuid>f180778d-1a57-4742-8f4a-c66bef148047</webElementGuid>
+      <webElementGuid>5475cb9d-74af-490f-a462-ff4d900212c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b36c3e34-3a6a-4f70-8ff6-eeb6ea996dd5</webElementGuid>
+      <webElementGuid>4da81b08-5a59-49ef-b451-3b3f9199f591</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cd5812bd-2378-4404-8d42-8f47fed657e3</webElementGuid>
+      <webElementGuid>35168bad-61b3-48c1-80fd-b96a6427f1cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,15 +87,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Perjanjian &amp; kontrak </value>
-      <webElementGuid>5f244ef6-9f52-483f-ab42-512cd00e992b</webElementGuid>
+      <webElementGuid>5070415c-1ed8-4d9f-b799-19e056e44341</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default                    pace-done pace-done pace-done pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto&quot;]/button[@class=&quot;text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition&quot;]</value>
-      <webElementGuid>6d4d120c-1a07-4f18-9b39-c95989a288ef</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default                    pace-done pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto&quot;]/button[@class=&quot;text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition&quot;]</value>
+      <webElementGuid>00687270-3ba7-47b7-92b0-a82d3b37676b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
-      <webElementGuid>4d4fa0e8-6a6d-4370-a26a-0368974ac4a1</webElementGuid>
+      <webElementGuid>691026fe-22ea-4a6a-8dac-97966faae758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perjanjian &amp; Kontrak'])[1]/following::button[1]</value>
-      <webElementGuid>5841875c-9bdb-419e-b1c3-b2ccde47a993</webElementGuid>
+      <webElementGuid>c0566bd3-98fd-4970-8776-63d881ba1127</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/preceding::button[1]</value>
-      <webElementGuid>db2f4577-1d81-4f4f-ac94-38e9c7493aa1</webElementGuid>
+      <webElementGuid>5a0f9bcb-7495-4b45-9fcb-98dcd53df87a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Perjanjian &amp; kontrak']/parent::*</value>
-      <webElementGuid>7d0dcfef-8d7d-464b-b37c-951ce5b41206</webElementGuid>
+      <webElementGuid>262b3992-c61e-43a1-bc0b-e9a33a54844d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/div[2]/div/div/div[3]/button</value>
-      <webElementGuid>ac1083cc-d777-4011-8c09-32f5b05ea091</webElementGuid>
+      <webElementGuid>a3fbcdf9-ba83-4649-8e19-1b943293a550</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Perjanjian &amp; kontrak ' or . = ' Perjanjian &amp; kontrak ')]</value>
-      <webElementGuid>94532c90-ed37-471b-83b5-accafef1b15a</webElementGuid>
+      <webElementGuid>2af7862a-856e-4240-b47c-814ae810dc2b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

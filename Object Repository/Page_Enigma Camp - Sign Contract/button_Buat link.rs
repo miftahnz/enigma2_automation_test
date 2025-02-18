@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>71ee2d74-b833-4344-bb90-03eb3968b0e3</webElementGuid>
+      <webElementGuid>889e2c08-e735-4326-a56c-cd42499f212f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>e675fb93-9cb8-4e98-b2e1-57fe5c5b7b76</webElementGuid>
+      <webElementGuid>321ae3fa-821d-45f3-a890-d4d975850465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>status</name>
       <type>Main</type>
       <value>info</value>
-      <webElementGuid>68cf272a-11f6-4374-ba5e-b5557eceb6eb</webElementGuid>
+      <webElementGuid>e958956a-86dd-4d10-8f62-d3218cdb4558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>d7e14bf8-6475-498b-9261-add5dd5286a8</webElementGuid>
+      <webElementGuid>92999531-a356-4270-9e15-50847bc5be3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5ab6903b-1c7a-4845-8e07-43fd1d5b3fa0</webElementGuid>
+      <webElementGuid>4f19a888-da4e-463f-856a-b402818a6672</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sign</value>
-      <webElementGuid>c11c109d-5f5e-4e42-8341-c624ea0801bd</webElementGuid>
+      <webElementGuid>8ce34e99-0d8d-471b-b5be-8589a4e1652f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mr-2 mb-sm-2 mb-lg-0 text-capitalize btn-mb appearance-filled size-medium shape-rectangle status-info nb-transition</value>
-      <webElementGuid>b9affdff-4871-4ad3-85a8-dcb00ccadd7a</webElementGuid>
+      <webElementGuid>eedf5055-54d7-447e-ae8e-0a267ccf34d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7e2ba6da-b3cd-4105-aa1b-ca74aea2d993</webElementGuid>
+      <webElementGuid>7c207acd-16e0-4c11-b4ec-e51b699353e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>96bee1b6-fb65-4875-a049-03d5a5adccdb</webElementGuid>
+      <webElementGuid>57dad18a-ac43-418e-9ebf-5064e7f3e59c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,15 +95,15 @@
       <name>text</name>
       <type>Main</type>
       <value>  Buat link </value>
-      <webElementGuid>24bc2a3e-282d-4efc-8b54-c2c68964f313</webElementGuid>
+      <webElementGuid>293f69f8-cf26-4d86-b243-fdd5d11adbde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default                            pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-contract[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row p-3&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row pt-2&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/nb-accordion[3]/nb-accordion-item[@class=&quot;expanded&quot;]/nb-accordion-item-body[@class=&quot;ng-tns-c86-9 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c86-9 ng-trigger ng-trigger-accordionItemBody&quot;]/div[@class=&quot;item-body ng-tns-c86-9&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row pt-1 d-flex align-items-center&quot;]/div[@class=&quot;col-md-3 col-sm-2&quot;]/button[@id=&quot;sign&quot;]</value>
-      <webElementGuid>ddde338a-3853-4459-a3e4-6025b9334667</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default                          pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-contract[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row p-3&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row pt-2&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/nb-accordion[3]/nb-accordion-item[@class=&quot;expanded&quot;]/nb-accordion-item-body[@class=&quot;ng-tns-c86-9 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c86-9 ng-trigger ng-trigger-accordionItemBody&quot;]/div[@class=&quot;item-body ng-tns-c86-9&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row pt-1 d-flex align-items-center&quot;]/div[@class=&quot;col-md-3 col-sm-2&quot;]/button[@id=&quot;sign&quot;]</value>
+      <webElementGuid>6aa4c13d-f684-4f87-90e9-cce05f77807c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='sign']</value>
-      <webElementGuid>99aa0a33-62ec-439a-bdec-e8c2e18cf664</webElementGuid>
+      <webElementGuid>069eeca5-dd78-43fd-88a7-8e12d490a7ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat link'])[1]/following::button[1]</value>
-      <webElementGuid>f204530f-b2fe-4165-ad8b-2ed125b53905</webElementGuid>
+      <webElementGuid>05e8f099-663c-4a38-9cbd-ca3b820a667d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanda tangan kontrak'])[1]/following::button[1]</value>
-      <webElementGuid>e754d722-ee19-4363-be11-6193f3b4cb8c</webElementGuid>
+      <webElementGuid>a99dbdaa-1f12-43e4-b4a1-1972fe87674b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi akun'])[1]/preceding::button[1]</value>
-      <webElementGuid>2c48c850-78af-4b5d-90aa-fe47814f6136</webElementGuid>
+      <webElementGuid>d4df71a9-f03f-4423-a1fe-54f415b0e273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nb-accordion-item-body/div/div/div/div/div/button</value>
-      <webElementGuid>c11d611c-eed7-479a-bb0a-00cabd52256f</webElementGuid>
+      <webElementGuid>3c2b2d3e-781e-49eb-8fee-94d68af7d6fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'sign' and (text() = '  Buat link ' or . = '  Buat link ')]</value>
-      <webElementGuid>8960d7b3-7bf1-4d27-9183-10d403d6dd2c</webElementGuid>
+      <webElementGuid>12186cf2-805f-41ed-884a-4538f58a5873</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

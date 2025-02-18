@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Keluar</name>
+   <name>div_BOGOR</name>
    <tag></tag>
-   <elementGuidId>1de333a4-7217-4f02-bf9b-66b25364049d</elementGuidId>
+   <elementGuidId>8da686c7-592f-4918-90bb-4eef016c17db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn-action-header.btn-box-none.p-3.text-dark.border-bottom-grey.d-flex.justify-content-between.appearance-ghost.full-width.size-medium.shape-rectangle.status-basic.nb-transition</value>
+         <value>#a9995ac75c4d-86</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='cdk-overlay-12']/nb-popover/nb-overlay-container/div/button[2]</value>
+         <value>//div[@id='a9995ac75c4d-86']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>89f2f02c-0d80-48fa-a9f1-a454100cac1d</webElementGuid>
+      <value>div</value>
+      <webElementGuid>1daf06ea-9627-495f-b7aa-01cacea05598</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-action-header btn-box-none p-3 text-dark border-bottom-grey d-flex justify-content-between appearance-ghost full-width size-medium shape-rectangle status-basic nb-transition</value>
-      <webElementGuid>0ee925f0-ffd2-4d19-b1d4-fc2d66ab58cf</webElementGuid>
+      <value>ng-option ng-star-inserted ng-option-marked</value>
+      <webElementGuid>22975e39-88ef-42f9-99f0-651a2fd0c31b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>84f2bcd9-19fc-4f3a-a207-0484d42616f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ac7f38ab-9734-47ca-9781-60f7a123b198</webElementGuid>
+      <webElementGuid>dbea117b-a6da-4b4a-b057-465c1b9b7184</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>id</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>878ef0d4-c8df-4f8d-bbf6-35edc750ffda</webElementGuid>
+      <value>a9995ac75c4d-86</value>
+      <webElementGuid>ad5c1951-ce70-4d15-bc66-72962a3845a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Keluar </value>
-      <webElementGuid>ad8f913a-0324-4a5e-b506-887ff3591e85</webElementGuid>
+      <value>BOGOR</value>
+      <webElementGuid>4c467bd8-f17c-4827-b50d-4d203aa35871</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-12&quot;)/nb-popover[@class=&quot;nb-overlay-bottom-start&quot;]/nb-overlay-container[1]/div[@class=&quot;d-flex flex-column ng-star-inserted&quot;]/button[@class=&quot;btn-action-header btn-box-none p-3 text-dark border-bottom-grey d-flex justify-content-between appearance-ghost full-width size-medium shape-rectangle status-basic nb-transition&quot;]</value>
-      <webElementGuid>0607e386-a8d8-4fc3-bde4-3c84cc443455</webElementGuid>
+      <value>id(&quot;a9995ac75c4d-86&quot;)</value>
+      <webElementGuid>17e744ca-91a6-463b-ba91-47fe977dd727</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='a9995ac75c4d-86']</value>
+      <webElementGuid>d73276b3-a430-43b0-b586-cf719e4b89b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-overlay-12']/nb-popover/nb-overlay-container/div/button[2]</value>
-      <webElementGuid>4e5ed1b8-df3d-4daa-bd0c-054e453a8e98</webElementGuid>
+      <value>//ng-dropdown-panel[@id='a9995ac75c4d']/div/div[2]/div[3]</value>
+      <webElementGuid>c522e5de-28be-4c0f-a835-0e018289eb1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/following::button[1]</value>
-      <webElementGuid>e0dc8186-e298-4472-a16b-ec73c2e9018b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOALEMO'])[1]/following::div[1]</value>
+      <webElementGuid>6aefc2ba-252d-46af-a71e-d51cec2477d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/following::button[2]</value>
-      <webElementGuid>9f06e201-cce6-45bb-82bc-607758405c75</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMBON'])[1]/following::div[2]</value>
+      <webElementGuid>762d553c-7520-432b-a8f0-12dd3c7ec372</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Keluar']/parent::*</value>
-      <webElementGuid>0fa008b9-6051-44d3-9e72-184783d5a7db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOGOR'])[2]/preceding::div[1]</value>
+      <webElementGuid>eb6258c0-ee65-47e4-bf01-16ccd1bec530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//nb-overlay-container/div/button[2]</value>
-      <webElementGuid>75362bb4-c9d1-4fa4-8873-43c6da219db2</webElementGuid>
+      <value>//ng-dropdown-panel/div/div[2]/div[3]</value>
+      <webElementGuid>49d3cf2b-b00a-414b-9be3-b295a73abf0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Keluar ' or . = 'Keluar ')]</value>
-      <webElementGuid>8649f9b2-83c0-4031-a961-0497ebcabad3</webElementGuid>
+      <value>//div[@id = 'a9995ac75c4d-86' and (text() = 'BOGOR' or . = 'BOGOR')]</value>
+      <webElementGuid>2b7f877f-91cd-4901-babb-fb25122e86b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

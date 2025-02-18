@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a9fc6043-e356-4358-a601-d0f069c52d20</webElementGuid>
+      <webElementGuid>66006f22-9b72-44aa-b48a-b7ded104cb8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3fafd0d9-6feb-4222-ae9f-c8b2d7a1b0fa</webElementGuid>
+      <webElementGuid>e81cc0a9-9325-4472-b4b5-c8066201ddb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>float-input ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>86899d5a-256b-4d5c-bf60-222bb725d47b</webElementGuid>
+      <webElementGuid>d2d341cc-46f4-4dfc-901f-188c7e6a06b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>1d6d7f74-3a75-4b55-9a7e-e10069f10c7f</webElementGuid>
+      <webElementGuid>f3419cc8-429e-4f9b-b1ec-41a1b67cde8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default              pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;bg-white p-4 d-flex flex-column&quot;]/form[@class=&quot;ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;mt-3 mt-md-0&quot;]/div[@class=&quot;row row-mb m-0 w-100 ng-star-inserted&quot;]/div[@class=&quot;col-12 col-lg-6 border-right border-none-mb border-dark px-0 pr-lg-3&quot;]/div[@class=&quot;floating-group mb-3&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/input[@class=&quot;float-input ng-untouched ng-pristine ng-invalid&quot;]</value>
-      <webElementGuid>70b474d8-cb05-4a21-af54-872fc52b2bba</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default                pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;bg-white p-4 d-flex flex-column&quot;]/form[@class=&quot;ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;mt-3 mt-md-0&quot;]/div[@class=&quot;row row-mb m-0 w-100 ng-star-inserted&quot;]/div[@class=&quot;col-12 col-lg-6 border-right border-none-mb border-dark px-0 pr-lg-3&quot;]/div[@class=&quot;floating-group mb-3&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/input[@class=&quot;float-input ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>5ee9a45d-5298-4485-be01-30f5061b8e90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>843e255e-3a46-4971-96aa-c5b39ec96de4</webElementGuid>
+      <webElementGuid>d9147d1e-2cb2-4af7-ba95-e48a9f7b9111</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>99452f77-a94c-43b5-a551-adea44061502</webElementGuid>
+      <webElementGuid>c91c5894-6741-4646-aeba-2d4c0b2030b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>8ac5dc47-c3e3-4d77-bdc7-becfba6fcf2b</webElementGuid>
+      <webElementGuid>ab9de355-3a30-48e6-bf08-3f665960dfb1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

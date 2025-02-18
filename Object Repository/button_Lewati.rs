@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Lihat Jadwal</name>
+   <name>button_Lewati</name>
    <tag></tag>
-   <elementGuidId>8bbf2886-7cd1-4e21-9a3e-7214fb43dec1</elementGuidId>
+   <elementGuidId>a8385aa0-fb5c-4f2f-bd6b-94862879ab81</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btnDownloadContract</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btnDownloadContract']</value>
+         <value>(//button[@id='btnDownloadContract'])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>66907669-02c7-464c-aa14-7df270188729</webElementGuid>
+      <webElementGuid>9cb8786a-0b1b-4d68-ab29-2410fb2e4423</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>4c872008-f505-4a15-b3ce-0a3e923cb088</webElementGuid>
+      <webElementGuid>39c2aa1e-778c-4c2d-bad2-06ac23ca46d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +39,15 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>7dda4334-fdd1-4791-86e1-e600378cb602</webElementGuid>
+      <webElementGuid>6dba4df9-c0f9-47d7-802f-155ca08e2831</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>size</name>
       <type>Main</type>
-      <value>small</value>
-      <webElementGuid>0d05e6ec-cdec-40b3-9902-9b99e8c14180</webElementGuid>
+      <value>tiny</value>
+      <webElementGuid>d785f86c-9a63-40a8-bdd4-9418940d84a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b84e43bc-cdd9-4270-8ffb-01772e1a77cd</webElementGuid>
+      <webElementGuid>54762224-8196-491e-b036-7b42245f43f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,15 +63,15 @@
       <name>id</name>
       <type>Main</type>
       <value>btnDownloadContract</value>
-      <webElementGuid>d763431e-072d-4cdc-8339-735ae2ed11de</webElementGuid>
+      <webElementGuid>4bed0b6c-fd16-415b-ba8a-05a8c466955d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mb-s-2 text-capitalize appearance-filled size-small shape-rectangle status-primary nb-transition</value>
-      <webElementGuid>dc39f58e-7964-4066-8eb3-6bd785f8da2f</webElementGuid>
+      <value>mb-2 mb-lg-0 text-capitalize appearance-outline size-tiny shape-rectangle status-primary nb-transition</value>
+      <webElementGuid>3ef151c1-91e3-4b41-8cde-cd671a9d219c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5a3c2970-affa-4860-b0a8-fd45373c882f</webElementGuid>
+      <webElementGuid>a369414e-f9c6-49d3-a91d-fcec810f41b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,47 +87,31 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>27e9cb98-87cb-48b9-bb6c-67abaa8c17e3</webElementGuid>
+      <webElementGuid>0c436578-4be2-434c-91b0-3b6c64abbba7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>   Lihat Jadwal </value>
-      <webElementGuid>ea0c01c1-7d89-4536-b42c-ffc914d12f82</webElementGuid>
+      <value> Lewati   </value>
+      <webElementGuid>7e06bcbc-314a-4f49-9c27-12eaab83bd86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btnDownloadContract&quot;)</value>
-      <webElementGuid>bfee28eb-e18e-415f-8d2f-fa7ea8f553f6</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default        pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-learning-method[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column mb-3 ng-star-inserted&quot;]/div[@class=&quot;px-0 col-12 bg-light border rounded d-flex flex-column&quot;]/div[@class=&quot;pt-2 pb-3 col-12 d-flex flex-column ng-star-inserted&quot;]/div[@class=&quot;p-2 d-flex flex-column flex-lg-row justify-content-between&quot;]/div[@class=&quot;d-flex flex-column mt-0 mt-lg-3&quot;]/div[@class=&quot;d-flex flex-wrap&quot;]/button[@id=&quot;btnDownloadContract&quot;]</value>
+      <webElementGuid>1f26d4d3-3965-4270-91cb-22dd9c05d560</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btnDownloadContract']</value>
-      <webElementGuid>9c44d465-ad5b-4e8b-9263-df1ef7e47eaf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal T&amp;C Meeting'])[1]/following::button[1]</value>
-      <webElementGuid>1e181fce-e0ed-4601-9588-776eeb0e817c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganti Kelas'])[1]/following::button[1]</value>
-      <webElementGuid>88593638-ad08-4b6c-acd6-2fd925cb0b6a</webElementGuid>
+      <value>(//button[@id='btnDownloadContract'])[3]</value>
+      <webElementGuid>c41aaa6a-0b29-49fa-81f8-be9241f71efc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,22 +119,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/preceding::button[1]</value>
-      <webElementGuid>d54eb8df-e0e6-4a8d-bfc8-ea228fa2ca5b</webElementGuid>
+      <webElementGuid>64263193-cff3-4656-bddd-5776fb7dd5d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>e39ebc75-981e-4fed-822e-3e3f352b89c7</webElementGuid>
+      <value>//button[3]</value>
+      <webElementGuid>d2046037-a23f-4115-aeca-6452473c36d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'btnDownloadContract' and (text() = '   Lihat Jadwal ' or . = '   Lihat Jadwal ')]</value>
-      <webElementGuid>1a869a18-36f2-437a-933e-5eba9e0469e6</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'btnDownloadContract' and (text() = ' Lewati   ' or . = ' Lewati   ')]</value>
+      <webElementGuid>60c1f92f-fa2f-4777-b009-067ae376a46d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

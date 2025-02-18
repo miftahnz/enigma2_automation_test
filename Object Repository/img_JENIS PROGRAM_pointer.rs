@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_JENIS PROGRAM_pointer</name>
+   <tag></tag>
+   <elementGuidId>f1e99ed7-6f37-4470-837b-9322f96a1cfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-see-full-desc/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a8e03658-3ba8-4d5e-aefa-2c55d8bedbfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/mockupV2.0/icons/crossXwhite.svg</value>
+      <webElementGuid>46f6a774-cfcd-4878-acf3-a9518c53407c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>ce1e9ccb-efc9-45fa-a779-70890ab1faf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/ngx-see-full-desc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column bg-light rounded-lg max-height-width cline-height&quot;]/div[@class=&quot;d-flex flex-row p-3 bg-primary rounded-top px-3&quot;]/img[@class=&quot;pointer&quot;]</value>
+      <webElementGuid>f7e423be-9ebf-4a96-bcf8-18487fa9c357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-see-full-desc/div/div/img</value>
+      <webElementGuid>61c3e447-5090-435f-b261-35db91ff408b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-see-full-desc/div/div/img</value>
+      <webElementGuid>78e5993b-cfd4-43b7-93d5-9d77e528948e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/img/mockupV2.0/icons/crossXwhite.svg']</value>
+      <webElementGuid>7bf104b2-fab4-42f7-af89-25cd891d76ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

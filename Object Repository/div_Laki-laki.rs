@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk</name>
+   <name>div_Laki-laki</name>
    <tag></tag>
-   <elementGuidId>5b0830bb-3472-485c-98b4-9450fb85de29</elementGuidId>
+   <elementGuidId>bf74a565-5ec8-4672-b9d4-86c2d649075c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btn-submit</value>
+         <value>#a4c073512f45-0</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-submit']</value>
+         <value>//div[@id='a4c073512f45-0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,125 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>33df06d5-f7e4-4e7c-b617-73903988c91a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>393a5201-064f-4bac-81f2-19464154aa13</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>e07003d4-01ac-473c-985f-0c6c00480c84</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>btn-submit</value>
-      <webElementGuid>07bcb8fb-f78e-49cd-91ff-43342689a5a7</webElementGuid>
+      <value>div</value>
+      <webElementGuid>5136a864-feeb-4d8a-94c4-a71635d6cf23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-sm w-100 pd-medium rectangle bold-600</value>
-      <webElementGuid>afd62046-61dd-4586-a152-d80f7b7251f5</webElementGuid>
+      <value>ng-option ng-option-marked ng-star-inserted</value>
+      <webElementGuid>13581931-7b23-4c3c-b6ff-e1d5fa5f067b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>bfcd44bf-5682-49f7-b2ea-5ea906833ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e582fbc2-3095-417f-aa54-99bf92c88078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>a4c073512f45-0</value>
+      <webElementGuid>9bed8355-0edc-4175-ae93-569ea5913080</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                Masuk
-              </value>
-      <webElementGuid>59eaa09c-84b6-450e-abd5-4472ee5e7195</webElementGuid>
+      <value>Laki-laki</value>
+      <webElementGuid>600df3cd-5fda-4d71-a4b4-9a9249b14851</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-submit&quot;)</value>
-      <webElementGuid>f3ffabe5-ef68-484f-b802-9392b13e3592</webElementGuid>
+      <value>id(&quot;a4c073512f45-0&quot;)</value>
+      <webElementGuid>fc7785d8-32fc-421e-b238-59ccf1a1573e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btn-submit']</value>
-      <webElementGuid>255a85be-070b-4b1a-91b5-12d48263b204</webElementGuid>
+      <value>//div[@id='a4c073512f45-0']</value>
+      <webElementGuid>cfd20002-8bfc-40b9-aed6-41e4bfd7a64b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='id-form-login']/button[2]</value>
-      <webElementGuid>d5518c85-5817-41f3-be40-c59c7d9a478e</webElementGuid>
+      <value>//ng-dropdown-panel[@id='a4c073512f45']/div/div[2]/div</value>
+      <webElementGuid>f94778a7-1df6-44d2-9fce-72a616f4a85f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi ?'])[1]/following::button[1]</value>
-      <webElementGuid>2e630099-3ac7-4f0e-90f2-cee379315f5b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Kelamin'])[1]/following::div[5]</value>
+      <webElementGuid>27e2b830-54db-4d36-b2ce-14555c123deb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukan Captcha'])[1]/following::button[1]</value>
-      <webElementGuid>42531fe7-a09c-4e56-8919-dc0e005525b3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[10]</value>
+      <webElementGuid>303505bf-31bb-4c2b-a1db-4c42c472abb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/preceding::button[1]</value>
-      <webElementGuid>1979589a-bfd0-4767-9d49-fc67f5b2c477</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>d0e3cb5b-283a-4428-b96b-4823aff2d677</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::div[1]</value>
+      <webElementGuid>24c3f0b0-857b-4b29-a104-afe608e21e2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>d269e98f-ee55-473c-918d-40ac0a2700be</webElementGuid>
+      <value>//ng-dropdown-panel/div/div[2]/div</value>
+      <webElementGuid>e407d877-6263-4307-9612-97deb31ed277</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'btn-submit' and (text() = '
-                Masuk
-              ' or . = '
-                Masuk
-              ')]</value>
-      <webElementGuid>32a4a9bf-df70-45f8-a5e6-a32a6441c32d</webElementGuid>
+      <value>//div[@id = 'a4c073512f45-0' and (text() = 'Laki-laki' or . = 'Laki-laki')]</value>
+      <webElementGuid>17307d67-7bc3-4e82-8f0a-319e47d63cc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

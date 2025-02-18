@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Masuk Dashboard_username</name>
+   <name>input_Swafoto (selfie)_inputSelfie</name>
    <tag></tag>
-   <elementGuidId>3de74d80-645d-4913-970e-121eae790ef7</elementGuidId>
+   <elementGuidId>6cc6bc57-8531-458e-8cc6-1cf725a9a785</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>#inputSelfie</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@id='inputSelfie']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,31 +23,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>183b87ee-55a4-46e4-934f-f114fd0ae482</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>2d214946-0565-4b09-ab97-a883ffe8c47b</webElementGuid>
+      <webElementGuid>f5042386-0a48-4407-aeaa-1abd0065ab74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>bf1bf406-46f0-4cca-85eb-c97ede49d0fc</webElementGuid>
+      <value>inputSelfie</value>
+      <webElementGuid>0d13dcf6-7e12-40f5-8592-460462b91b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>formcontrolname</name>
       <type>Main</type>
-      <value>floating-input text-medium color-medium input form-control font-size-14 invalid-input</value>
-      <webElementGuid>0e5d4ad0-33fc-479e-a8bd-b8bdb57d66be</webElementGuid>
+      <value>selfie</value>
+      <webElementGuid>97c05ff5-fca8-459d-bbad-8cb23d3c3d89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +47,39 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a69f5409-f182-4fd0-84ed-45266d6d399f</webElementGuid>
+      <webElementGuid>8961a3c8-ec92-4441-9d8b-d6eed850b8a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Selfie camera</value>
+      <webElementGuid>3eeb0cf5-148b-4b69-9e4c-e1bd464f1fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>0418f467-596f-4c28-bde9-8ab3b8ad90d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>1b5ffbc5-5b2b-4729-8040-f4e73d17f853</webElementGuid>
+      <value>id(&quot;inputSelfie&quot;)</value>
+      <webElementGuid>8b03b807-01bf-4ff4-bb81-f31212512748</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>e9caf1dd-fa63-43b2-82c2-fabf7cfd12a8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='id-form-login']/div/div/div[2]/input</value>
-      <webElementGuid>9239efdc-7048-4520-a09e-ba794b2f7c35</webElementGuid>
+      <value>//input[@id='inputSelfie']</value>
+      <webElementGuid>5277aec3-a358-4a16-8436-4e2c5bdb68b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,14 +87,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>d1992882-5cf4-4ed6-a12d-e23147a4140f</webElementGuid>
+      <webElementGuid>c668e4d8-7a9c-44ed-8fb6-12aca260ba81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'username' and @type = 'text']</value>
-      <webElementGuid>37ed690f-f612-431e-95f4-682ef82b85cd</webElementGuid>
+      <value>//input[@id = 'inputSelfie' and @type = 'text']</value>
+      <webElementGuid>3d60aaaa-2c55-454a-9ada-d90fd2f12f86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

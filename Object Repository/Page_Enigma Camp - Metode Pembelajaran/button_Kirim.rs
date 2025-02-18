@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fbdd722c-7717-4118-9cc2-6c537e3c46a3</webElementGuid>
+      <webElementGuid>d4955853-320e-4e6b-87fc-944f0eb9d049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60701204-ff19-4244-8202-933ecfe4d02d</webElementGuid>
+      <webElementGuid>b0954f69-70c2-40d7-9b5c-03145c2df9af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>a5f076d6-20ab-43ab-8b39-88edcbaed0b6</webElementGuid>
+      <webElementGuid>2d1064da-dd4c-4d37-babc-829969870de8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>5a826465-0f6d-446e-b43f-676b1296466d</webElementGuid>
+      <webElementGuid>ce8e2bb6-f7a5-4fe8-8ca5-b4a0b1cf9684</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>a013b71f-8cc3-47e8-83ec-846c906b8f05</webElementGuid>
+      <webElementGuid>5d8165fb-2d05-403a-8e1f-85c683eef7f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-capitalize mt-4 appearance-filled full-width size-medium shape-rectangle status-primary ng-star-inserted nb-transition</value>
-      <webElementGuid>c231727e-d590-4172-98d3-d54a749fe05a</webElementGuid>
+      <webElementGuid>c0c62c07-a5dd-4c21-a9e8-c64ceedc641f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ea357f85-10b3-4ca7-980a-0f44b6a6de14</webElementGuid>
+      <webElementGuid>b4218ef1-1e56-46ed-aea9-f8cf2268fd4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>67e09caa-0cdb-4517-85d1-a789ae149d44</webElementGuid>
+      <webElementGuid>4779be59-de50-44e1-95cd-5364428163f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,15 +87,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Kirim </value>
-      <webElementGuid>ea785f5c-7af8-4241-8fc1-3a0c874c6dba</webElementGuid>
+      <webElementGuid>2414d89b-3a1b-4363-99dc-a9b2d15eb278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-5&quot;)/nb-dialog-container[1]/ngx-preview-tnc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;col-12 col-lg-8 col-md-10 h-75&quot;]/nb-card[@class=&quot;border-none accent accent-primary&quot;]/nb-card-body[@class=&quot;border-none&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;text-capitalize mt-4 appearance-filled full-width size-medium shape-rectangle status-primary ng-star-inserted nb-transition&quot;]</value>
-      <webElementGuid>89e83dba-0d79-440b-9805-6a705345650d</webElementGuid>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/ngx-preview-tnc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;col-12 col-lg-8 col-md-10 h-75&quot;]/nb-card[@class=&quot;border-none accent accent-primary&quot;]/nb-card-body[@class=&quot;border-none&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;text-capitalize mt-4 appearance-filled full-width size-medium shape-rectangle status-primary ng-star-inserted nb-transition&quot;]</value>
+      <webElementGuid>09884c7b-4a68-472b-b8e0-39688c2888d5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,15 +103,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>41690ba7-6c42-433d-8389-65c1d50b409c</webElementGuid>
+      <webElementGuid>a3cf07f0-05ac-49ee-9be9-5acbed144b5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-overlay-5']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/button</value>
-      <webElementGuid>81d2227f-59b8-46dd-940e-c38628356946</webElementGuid>
+      <value>//div[@id='cdk-overlay-4']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/button</value>
+      <webElementGuid>76940335-6bdf-4047-b706-b3266aa5d83e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya bersedia mengikuti kelas inkubasi.'])[1]/following::button[1]</value>
-      <webElementGuid>c8cbe6f0-3f01-4e5a-980c-fa69dc7f17b8</webElementGuid>
+      <webElementGuid>6fa67b91-29f0-4214-9959-819ddc6c422f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya sudah lulus SMA/SMK/S1/sederajat atau menempuh semester akhir.'])[1]/following::button[1]</value>
-      <webElementGuid>f689ee36-020d-4603-a4c9-e92fc44cb871</webElementGuid>
+      <webElementGuid>8af57c20-3e83-40f5-8f9d-7cad8238c01b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kirim']/parent::*</value>
-      <webElementGuid>20ae23fc-df99-40b2-b3fb-9ae52d2253b7</webElementGuid>
+      <webElementGuid>dc9ad04e-a778-4814-ac80-3838beb382d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>aab23683-d541-4e4c-a6d6-22e9c7ea9965</webElementGuid>
+      <webElementGuid>08714779-c953-43e5-a4cf-756d6150c61d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Kirim ' or . = ' Kirim ')]</value>
-      <webElementGuid>1b0c0b88-5691-4f2a-8064-452fd1b73109</webElementGuid>
+      <webElementGuid>54f883a1-4f13-4693-82a1-4bc3ef4cf366</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

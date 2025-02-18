@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration Step Choose Program 2.0</description>
+   <name>TC3_Registration_ChooseProgram</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9c4574f-0ce2-420d-9d63-58a52c7139a9</testCaseGuid>
+</TestCaseEntity>

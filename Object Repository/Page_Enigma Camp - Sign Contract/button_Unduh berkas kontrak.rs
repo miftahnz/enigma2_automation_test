@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cae4ada8-69a0-4312-b8d5-f67f07e9cffd</webElementGuid>
+      <webElementGuid>06d50aad-9044-42fc-bb88-a9ded07c881d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>8601ca5f-1d8a-44be-8ad3-51d9aa452ec8</webElementGuid>
+      <webElementGuid>7b781f9d-0ac2-4598-b635-154e91e2ed21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>73c70569-ffdd-4cd3-9e5b-ebb6d9db50d1</webElementGuid>
+      <webElementGuid>c30be14d-d1f6-4611-9f50-3c11661ad83a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>1e170a52-a725-46c8-80c7-8f6aaec2f1f4</webElementGuid>
+      <webElementGuid>e1e2a127-2e26-451e-871c-67732c9b6028</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>15c79f28-283f-4822-8ca8-f538d05ac4ed</webElementGuid>
+      <webElementGuid>de029da5-901e-46f4-83ae-8106d1d2a8ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnDownloadContract</value>
-      <webElementGuid>c5a3aac3-396a-4c7a-8a54-0424854d9e19</webElementGuid>
+      <webElementGuid>3e48a647-3500-495c-a4c0-2d8abb28ba27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mb-s-2 text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition</value>
-      <webElementGuid>d66d9668-3f1a-4c70-b3df-13f5ff6cfcdc</webElementGuid>
+      <webElementGuid>2fbdc3c5-6b67-4bcb-bb9b-2891cca0d6a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5f3db7b9-cf2f-4394-ab4e-68303d25c57d</webElementGuid>
+      <webElementGuid>2a8479e7-8d7b-4ed4-880a-78c14f73d5dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>8d069dd1-95ae-40de-b323-9c1de0c74744</webElementGuid>
+      <webElementGuid>327c4519-2c59-4bd1-ab38-d94dd815e3af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Unduh berkas kontrak </value>
-      <webElementGuid>19521873-77ef-4bd7-a958-fe743e1955a9</webElementGuid>
+      <webElementGuid>a41f7651-99e2-4263-82da-f3bf1b68513a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnDownloadContract&quot;)</value>
-      <webElementGuid>dc6d7e36-9ad3-408e-9694-5bbd822f91b2</webElementGuid>
+      <webElementGuid>92702bd8-e139-47b2-819c-a03148d7190d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btnDownloadContract']</value>
-      <webElementGuid>343bed3d-bb2c-4160-bdf1-b63334d6059c</webElementGuid>
+      <webElementGuid>9d867a09-1cfe-4fdb-b877-4651dd2ad7b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft kontrak'])[1]/following::button[1]</value>
-      <webElementGuid>7d454a14-b557-4860-a9d2-5348849e1585</webElementGuid>
+      <webElementGuid>7c3c848f-ade9-4950-836c-95a2e9ce18ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perjanjian &amp; kontrak'])[2]/following::button[1]</value>
-      <webElementGuid>cce6c8b9-e2d0-4ff7-96ce-6d3dca4fa95a</webElementGuid>
+      <webElementGuid>3524f0ed-a5fa-4642-91a0-a9ad9416b1f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swafoto (selfie) &amp; Foto KTP'])[1]/preceding::button[1]</value>
-      <webElementGuid>f9f90b1f-be98-4b57-97c7-5fc45063d8aa</webElementGuid>
+      <webElementGuid>67024706-d189-4484-ab62-6702f39f1326</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swafoto (selfie)'])[1]/preceding::button[1]</value>
-      <webElementGuid>4d79214d-ff25-449d-bb84-8af7e8c22361</webElementGuid>
+      <webElementGuid>28231ddd-4dff-4c19-8120-3bc4c04f6f9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +151,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Unduh berkas kontrak']/parent::*</value>
-      <webElementGuid>caa5a714-b535-443e-984f-43f0598b8059</webElementGuid>
+      <webElementGuid>8d144d06-45af-4169-b819-07340a1aae85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +159,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/button</value>
-      <webElementGuid>109021e3-1a22-4fa8-aae0-88916e5fb1bf</webElementGuid>
+      <webElementGuid>8fb791b9-d0af-4607-adfa-96202facd702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +167,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'btnDownloadContract' and (text() = ' Unduh berkas kontrak ' or . = ' Unduh berkas kontrak ')]</value>
-      <webElementGuid>40827cad-59dc-4c64-a05f-555eb034c9dd</webElementGuid>
+      <webElementGuid>159d45ef-a81a-425d-aead-db3c8c72a312</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

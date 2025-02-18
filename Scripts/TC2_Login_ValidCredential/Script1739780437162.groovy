@@ -16,27 +16,30 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import javax.swing.JOptionPane as JOptionPane
 
-import com.kms.katalon.core.util.KeywordUtil
+WebUI.openBrowser('')
 
-// Menggunakan nama yang sudah di-generate
-String usedRegisteredEmail = GlobalVariable.registeredEmail
+WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/login')
 
-not_run: WebUI.openBrowser('')
-
-not_run: WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/login')
-
-not_run: WebUI.maximizeWindow()
+WebUI.maximizeWindow()
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/img'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/label_Masuk Dashboard'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_Masuk Dashboard_username'), usedRegisteredEmail)
+String email = GlobalVariable.registeredEmail
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_Email_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+if(email.isBlank()) {
+	email = JOptionPane.showInputDialog('Masukkan email:')
+}
 
-WebUI.click(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/button_Masuk'))
+WebUI.setText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_username'), email)
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+
+WebUI.click(findTestObject('Object Repository/Page_Login - Enigmacamp Bootcamp 2.0/button_login'))
 
 TestObject buttonSayaMengerti = findTestObject('Page_Enigma Camp - Dashboard/button_Saya mengerti')
 

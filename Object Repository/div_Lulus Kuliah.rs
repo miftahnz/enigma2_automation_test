@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Keluar</name>
+   <name>div_Lulus Kuliah</name>
    <tag></tag>
-   <elementGuidId>1de333a4-7217-4f02-bf9b-66b25364049d</elementGuidId>
+   <elementGuidId>b3ec90ae-a918-4729-95fd-2b911ebd147c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn-action-header.btn-box-none.p-3.text-dark.border-bottom-grey.d-flex.justify-content-between.appearance-ghost.full-width.size-medium.shape-rectangle.status-basic.nb-transition</value>
+         <value>#a0d6b646de1a-1</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='cdk-overlay-12']/nb-popover/nb-overlay-container/div/button[2]</value>
+         <value>//div[@id='a0d6b646de1a-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>89f2f02c-0d80-48fa-a9f1-a454100cac1d</webElementGuid>
+      <value>div</value>
+      <webElementGuid>3e4625cc-1fb7-4d02-aa05-f326e3f7af90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-action-header btn-box-none p-3 text-dark border-bottom-grey d-flex justify-content-between appearance-ghost full-width size-medium shape-rectangle status-basic nb-transition</value>
-      <webElementGuid>0ee925f0-ffd2-4d19-b1d4-fc2d66ab58cf</webElementGuid>
+      <value>ng-option ng-star-inserted ng-option-marked</value>
+      <webElementGuid>ddd674b8-d865-40ae-9d7d-eeb2fa687e9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>5eea9964-1d83-4fa3-8cd4-28a2afa90ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ac7f38ab-9734-47ca-9781-60f7a123b198</webElementGuid>
+      <webElementGuid>72980486-17cf-4593-954b-68355564919e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>id</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>878ef0d4-c8df-4f8d-bbf6-35edc750ffda</webElementGuid>
+      <value>a0d6b646de1a-1</value>
+      <webElementGuid>47ca8afe-fbb1-4f99-b475-f3740d6efa12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Keluar </value>
-      <webElementGuid>ad8f913a-0324-4a5e-b506-887ff3591e85</webElementGuid>
+      <value>Lulus Kuliah</value>
+      <webElementGuid>81eaf11e-10f8-4d0a-91fe-c9083f8ebefa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-12&quot;)/nb-popover[@class=&quot;nb-overlay-bottom-start&quot;]/nb-overlay-container[1]/div[@class=&quot;d-flex flex-column ng-star-inserted&quot;]/button[@class=&quot;btn-action-header btn-box-none p-3 text-dark border-bottom-grey d-flex justify-content-between appearance-ghost full-width size-medium shape-rectangle status-basic nb-transition&quot;]</value>
-      <webElementGuid>0607e386-a8d8-4fc3-bde4-3c84cc443455</webElementGuid>
+      <value>id(&quot;a0d6b646de1a-1&quot;)</value>
+      <webElementGuid>1809746d-f9ce-47a0-83fc-9cc451f9b6ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='a0d6b646de1a-1']</value>
+      <webElementGuid>851133da-ef7e-4569-a0fa-ef36b0680f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-overlay-12']/nb-popover/nb-overlay-container/div/button[2]</value>
-      <webElementGuid>4e5ed1b8-df3d-4daa-bd0c-054e453a8e98</webElementGuid>
+      <value>//ng-dropdown-panel[@id='a0d6b646de1a']/div/div[2]/div[2]</value>
+      <webElementGuid>bc46819b-b8c9-4539-9ae7-448906a0730f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/following::button[1]</value>
-      <webElementGuid>e0dc8186-e298-4472-a16b-ec73c2e9018b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mahasiswa Aktif'])[1]/following::div[1]</value>
+      <webElementGuid>afb90e79-b6af-4d65-bc12-a1c78d0cecdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/following::button[2]</value>
-      <webElementGuid>9f06e201-cce6-45bb-82bc-607758405c75</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Pendidikan Terakhir'])[1]/following::div[6]</value>
+      <webElementGuid>cfdb7033-a4f5-461f-bb6c-eb29e168a40e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Keluar']/parent::*</value>
-      <webElementGuid>0fa008b9-6051-44d3-9e72-184783d5a7db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lulus SMA/SMK Sederajat'])[1]/preceding::div[1]</value>
+      <webElementGuid>c91c1133-5312-476e-a466-bf6ac5dd6ba2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//nb-overlay-container/div/button[2]</value>
-      <webElementGuid>75362bb4-c9d1-4fa4-8873-43c6da219db2</webElementGuid>
+      <value>//ng-dropdown-panel/div/div[2]/div[2]</value>
+      <webElementGuid>bb7a84d4-31c3-4eb8-9029-8e26de8f7504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Keluar ' or . = 'Keluar ')]</value>
-      <webElementGuid>8649f9b2-83c0-4031-a961-0497ebcabad3</webElementGuid>
+      <value>//div[@id = 'a0d6b646de1a-1' and (text() = 'Lulus Kuliah' or . = 'Lulus Kuliah')]</value>
+      <webElementGuid>2d1c5033-6873-4aa5-aac5-4a5a0ce3570f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

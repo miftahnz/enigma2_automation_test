@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>b</value>
-      <webElementGuid>ce229933-48a1-4233-836f-ccf0907143c4</webElementGuid>
+      <webElementGuid>9f831c19-38ca-4318-8eeb-d6b87e303d4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +31,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Lewati</value>
-      <webElementGuid>82577ab7-fc15-4a85-9cff-b7525d81cd8c</webElementGuid>
+      <webElementGuid>541849c3-a884-4410-a6e0-b3d68c724cd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default                    pace-done pace-done pace-done pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto row&quot;]/div[@class=&quot;col-6 col-lg-3 align-self-center&quot;]/a[@class=&quot;text-warning pointer text-right ng-star-inserted&quot;]/b[1]</value>
-      <webElementGuid>dd06037f-66fc-4f27-a4d5-864ecf8fc320</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default                    pace-done pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto row&quot;]/div[@class=&quot;col-6 col-lg-3 align-self-center&quot;]/a[@class=&quot;text-warning pointer text-right ng-star-inserted&quot;]/b[1]</value>
+      <webElementGuid>f2b25c8f-c198-45c8-91b3-6ee31ad6d011</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[1]/following::b[1]</value>
-      <webElementGuid>e4387fca-c9df-4f40-8da6-2203595f7e91</webElementGuid>
+      <webElementGuid>05d06190-66c1-4bf5-9a61-9eae19b3dde0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::b[1]</value>
-      <webElementGuid>69224357-786a-4459-a784-80ce9ba70cc7</webElementGuid>
+      <webElementGuid>d08e0df1-8cf6-4cdc-8cea-e2f4206a9168</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perjanjian &amp; Kontrak'])[1]/preceding::b[1]</value>
-      <webElementGuid>db9f052d-8ada-4359-b425-c881362f05f7</webElementGuid>
+      <webElementGuid>8fc57800-033f-45ec-977a-73f611f7dfc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[2]/preceding::b[1]</value>
-      <webElementGuid>90d90db2-2a9a-4b02-a86a-a132c47096cb</webElementGuid>
+      <webElementGuid>1557849a-c430-42b8-a853-625aa7b44b90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Lewati']/parent::*</value>
-      <webElementGuid>97bcc1a0-f94f-4359-bee7-d5c3f7acac78</webElementGuid>
+      <webElementGuid>81e99e3b-bf67-44e4-b634-d5cf31251935</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//b</value>
-      <webElementGuid>006de5bb-a113-44d1-9e8b-f3849a2ae596</webElementGuid>
+      <webElementGuid>b28191c3-a45c-4efd-8781-c5e47ff69405</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//b[(text() = 'Lewati' or . = 'Lewati')]</value>
-      <webElementGuid>08eb1108-24fe-4629-b0b1-0e171499a52a</webElementGuid>
+      <webElementGuid>3c7c78cb-06a7-4596-99d9-c3d7d2cbbe3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

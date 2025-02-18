@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>522bbd4b-7f4b-4fbc-bd59-ca77c265e3ef</webElementGuid>
+      <webElementGuid>916fe78b-0264-4ff2-acf6-1f3d4b565804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4217b95c-f662-4ff7-a221-35e37324ac6e</webElementGuid>
+      <webElementGuid>44014d0d-366c-427b-a828-a104890b2c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary fs-4 bold-500</value>
-      <webElementGuid>b0a45207-e749-4966-aad2-7553c5fa57ce</webElementGuid>
+      <webElementGuid>7db04bed-336a-4a62-a2a3-11ee325cd674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,15 +47,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih</value>
-      <webElementGuid>aeec5374-c466-48b3-b350-52005917ab38</webElementGuid>
+      <webElementGuid>8e038eab-9b09-49de-87e9-c26f2b94264b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default          pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-course-package[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row mb-3 mb-md-0&quot;]/div[@class=&quot;pr-0 col-12&quot;]/div[@class=&quot;d-flex flex-wrap&quot;]/div[@class=&quot;pl-0 pr-3 col-md-6 col-lg-4 mt-md-3 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column bg-white rounded-lg mt-3 mt-md-0&quot;]/div[@class=&quot;d-flex flex-column px-2 pb-2&quot;]/button[@class=&quot;btn btn-primary fs-4 bold-500&quot;]</value>
-      <webElementGuid>aac9e16b-d461-4b88-86ba-d3a1595d6ed0</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default            pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-course-package[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row mb-3 mb-md-0&quot;]/div[@class=&quot;pr-0 col-12&quot;]/div[@class=&quot;d-flex flex-wrap&quot;]/div[@class=&quot;pl-0 pr-3 col-md-6 col-lg-4 mt-md-3 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column bg-white rounded-lg mt-3 mt-md-0&quot;]/div[@class=&quot;d-flex flex-column px-2 pb-2&quot;]/button[@class=&quot;btn btn-primary fs-4 bold-500&quot;]</value>
+      <webElementGuid>c9f0ac73-3142-4bb5-a8b7-a16169ab70e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>888cf874-66f0-4537-b33b-9e3262c4ea21</webElementGuid>
+      <webElementGuid>7f02a22f-3a2a-4f62-a594-5c67fbf3b031</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
-      <webElementGuid>f0de012a-ae73-4ca8-912d-1741259989b3</webElementGuid>
+      <webElementGuid>422f0acb-0f40-4194-b6fb-76635b9c7a56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Package'])[1]/following::button[1]</value>
-      <webElementGuid>bb6dca99-b844-4418-8cff-5204a557e587</webElementGuid>
+      <webElementGuid>526090ee-4fe6-4a1b-88d7-7d89620c08ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Syllabus'])[1]/preceding::button[1]</value>
-      <webElementGuid>58507e52-fa99-4559-a837-e984245ac7f4</webElementGuid>
+      <webElementGuid>a5e1f900-e315-4e00-ae1f-f6e1fb90e5cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pilih']/parent::*</value>
-      <webElementGuid>0d862865-4e3c-49f2-93ff-5fad441de884</webElementGuid>
+      <webElementGuid>81bb2174-e1c1-4338-af86-3569a0ad7d24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>61d7fd50-8627-4f90-b605-b4ce66eebd3b</webElementGuid>
+      <webElementGuid>fb3682c0-8d1b-42fb-beb6-20871b32419e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Pilih' or . = 'Pilih')]</value>
-      <webElementGuid>0b2c4d31-3386-4616-8da7-320fdb966d73</webElementGuid>
+      <webElementGuid>182387bb-be67-42c3-992a-75cc0068ceca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

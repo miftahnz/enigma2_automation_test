@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dd222ed8-aa71-40f2-9baf-3121d99d5685</webElementGuid>
+      <webElementGuid>ac652c14-1d66-4052-80c9-2c2ab05014b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>e791d911-244c-4618-b820-74dc240e820b</webElementGuid>
+      <webElementGuid>ed9906c6-c7ad-4312-8438-26d60504e1d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>791d7291-a58b-4026-864e-461e41ea87ff</webElementGuid>
+      <webElementGuid>6ebded9a-2cbf-4be2-aa23-aa49252df97e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>size</name>
       <type>Main</type>
       <value>tiny</value>
-      <webElementGuid>9f1b2525-93c5-4bbe-a567-7b85bfd84f76</webElementGuid>
+      <webElementGuid>f48a4601-95e8-422e-a844-ce530a446b57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1feb4b98-44e0-446c-807b-85d51a67b865</webElementGuid>
+      <webElementGuid>0e7599dc-d215-4275-9d35-de27e40aedfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnPickSchedule</value>
-      <webElementGuid>8afb64e6-8e3d-495d-a306-b0d579373656</webElementGuid>
+      <webElementGuid>a966c66e-db2d-4376-9aa6-6600e1faf8f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mb-s-2 text-capitalize appearance-filled size-tiny shape-rectangle status-primary nb-transition</value>
-      <webElementGuid>f24464db-6d64-44d6-a7de-fb24f8f213d7</webElementGuid>
+      <webElementGuid>c78bc4d3-bb04-4095-b1a1-8bcdecf47a1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>737245c0-7f18-453f-9a64-a8d787293779</webElementGuid>
+      <webElementGuid>869159d9-4797-43d3-a49e-166d49277428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3a1c2dfe-93a9-46ab-bfdc-81968e9a3759</webElementGuid>
+      <webElementGuid>60d96d1e-109f-489f-b6a0-75abad2cf643</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>text</name>
       <type>Main</type>
       <value>   Pilih jadwal </value>
-      <webElementGuid>794b9b40-ebab-4f5a-985a-b5ad2c2ddb35</webElementGuid>
+      <webElementGuid>cfa04b2b-9cd8-4b21-8dfd-5839a47a9eda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnPickSchedule&quot;)</value>
-      <webElementGuid>bb36b174-b870-479f-9f44-8442d8c63283</webElementGuid>
+      <webElementGuid>d64bf2cb-ea95-4d94-809c-ee0d73d4a78a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btnPickSchedule']</value>
-      <webElementGuid>d83579c8-7be4-470e-a35b-26f4fcfc1119</webElementGuid>
+      <webElementGuid>94efc959-03d0-409f-bcef-394d9b6bff03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-3']/nb-dialog-container/ngx-schedule-tnc/div/div/div[2]/div/div/div/div/div[5]/button</value>
-      <webElementGuid>85c3ddbe-7012-4f60-9907-562514ea1118</webElementGuid>
+      <webElementGuid>71737956-369f-433e-b762-dbbd20b84b67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='https://meet.google.com/oxd-tioh-nyv'])[1]/following::button[1]</value>
-      <webElementGuid>a3b45d70-f874-4563-81f7-ef9d1989889c</webElementGuid>
+      <webElementGuid>a789e1f3-bcf6-44db-82d3-0de7a1ac460b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Link meeting'])[1]/following::button[1]</value>
-      <webElementGuid>76de73e0-c10b-4825-aa5b-e60fb3a17277</webElementGuid>
+      <webElementGuid>d85fb378-6b0d-4a9e-a581-41e2304faa54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
-      <webElementGuid>47544ec6-faea-4969-9cac-55eb00ab3540</webElementGuid>
+      <webElementGuid>1b62a539-91bf-493f-b41e-397f2d1518bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'btnPickSchedule' and (text() = '   Pilih jadwal ' or . = '   Pilih jadwal ')]</value>
-      <webElementGuid>31b2c468-dc1b-41f5-a975-62845dbf54cc</webElementGuid>
+      <webElementGuid>e53704f7-3fc9-4bbd-9919-1218475cd5c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5e9d12c3-5f26-422f-808b-32df7d703f61</webElementGuid>
+      <webElementGuid>72247a6c-9f1b-4e6d-8415-81a58f790a49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>61f9b54c-6829-4225-ac69-a30293a6bb19</webElementGuid>
+      <webElementGuid>b17ace74-33af-4d7a-8d0f-eb8ecd47414c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary mt-auto</value>
-      <webElementGuid>3b7c4c09-9d8a-40b3-aac2-6a728d611150</webElementGuid>
+      <webElementGuid>74421432-b232-4129-a261-b6d346fcc9e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Pilih Kelas </value>
-      <webElementGuid>496ea8d2-667b-4274-aa9a-c6bd69874ab1</webElementGuid>
+      <webElementGuid>aa016421-93c1-4db0-a171-c93426e91db1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default      pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-learning-method[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row mb-1 mb-md-3&quot;]/div[@class=&quot;col-12 col-sm-12 col-lg-6 mb-3 mb-lg-0&quot;]/div[@class=&quot;d-flex flex-column bg-light mb-3 mb-md-0&quot;]/div[@class=&quot;d-flex flex-column px-3 py-4&quot;]/button[@class=&quot;btn btn-primary mt-auto&quot;]</value>
-      <webElementGuid>df5cfbb5-8d3b-491c-90a7-757a50cb2e92</webElementGuid>
+      <webElementGuid>3f88e5d1-47e4-4157-a550-d1427ddfb72a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>307842f8-d7ff-445c-a428-c10ca869c505</webElementGuid>
+      <webElementGuid>78aa5191-694a-4a00-a6f5-d949e832aaee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
-      <webElementGuid>b9bb0102-3f12-484b-85b4-43f40eeb5a51</webElementGuid>
+      <webElementGuid>3d7d3acb-b08f-4099-be4c-5f1c192f5f73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Enigma 2.0)'])[1]/following::button[1]</value>
-      <webElementGuid>1ec98791-c057-436f-9301-aa1d5d7953a8</webElementGuid>
+      <webElementGuid>5d664ae2-a03c-4a1b-a54d-1a6a04e2765e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline Bootcamp'])[1]/preceding::button[1]</value>
-      <webElementGuid>89efa7a1-547c-4cc5-a4e8-8e3aa9dfd7ff</webElementGuid>
+      <webElementGuid>8425affb-883b-4e5b-9e0d-10852430a62f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Enigma 1.0)'])[1]/preceding::button[1]</value>
-      <webElementGuid>979c799d-7408-4b5a-8bc9-0cf2e3c8978a</webElementGuid>
+      <webElementGuid>206ceda5-7997-4fca-85d0-e2cc865e516c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pilih Kelas']/parent::*</value>
-      <webElementGuid>1322d7e9-7148-463b-bfab-1fda0f3cb6f9</webElementGuid>
+      <webElementGuid>0dd68596-cbc8-4667-968f-f09c05e4ab2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/button</value>
-      <webElementGuid>a25dad04-a13f-4795-8764-c31a34f1093d</webElementGuid>
+      <webElementGuid>d113317e-bef6-4100-978e-818ba563bf73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Pilih Kelas ' or . = ' Pilih Kelas ')]</value>
-      <webElementGuid>0f1a7cd4-9aa3-4d8b-b599-c53d6c1f5dc2</webElementGuid>
+      <webElementGuid>e9a7212c-ae7a-460a-aa18-d88a0417d12e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

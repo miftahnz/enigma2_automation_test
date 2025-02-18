@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>679e7b24-9998-4843-83c6-55f8a7656a0a</webElementGuid>
+      <webElementGuid>e7f2cb28-9ba0-4567-8b4c-04dabaf491ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>routerlink</name>
       <type>Main</type>
       <value>/learning-method</value>
-      <webElementGuid>14c4025c-c71e-44bd-a99c-9b97daa52262</webElementGuid>
+      <webElementGuid>7473ef5b-6fce-4eed-8af1-c087b84c61b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>e8689b73-c5b5-451f-8980-ff31e3c5b4d1</webElementGuid>
+      <webElementGuid>48b5cff4-3c6d-4ae5-b321-bc7f54a5244a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>86b535c7-619c-45f5-acf7-68025f83b651</webElementGuid>
+      <webElementGuid>6a83fdac-866f-4e8d-b931-f1e0c51ab646</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>c8f4f583-7258-4a58-907b-31a3713081a0</webElementGuid>
+      <webElementGuid>db6c2bbb-575f-4d68-9763-37df2a5c504f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition</value>
-      <webElementGuid>c74d9db5-b6ea-414c-8560-568b139ef8ac</webElementGuid>
+      <webElementGuid>4a0cbebf-96af-42da-8397-3157173f3605</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f4fac4f5-c638-4e05-8e80-6b91a3e0371c</webElementGuid>
+      <webElementGuid>25c2bf6e-2148-4979-8f24-b7dc7888823c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d7acbf89-2f44-40c1-878c-ec4f42bfa6c5</webElementGuid>
+      <webElementGuid>3cec0245-795d-4a0a-b90b-b0e2d5abe70a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Pilih jenis program </value>
-      <webElementGuid>cc1aa65a-662f-4fc3-8516-1aaeba421b04</webElementGuid>
+      <webElementGuid>cbc7efd9-5c0d-4e7b-a6b1-5ce25f44b4d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default pace-done pace-done pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5 cmax-width&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;timeline-body w-100&quot;]/div[@class=&quot;w-100 mt-auto ng-star-inserted&quot;]/button[@class=&quot;text-capitalize appearance-filled size-medium shape-rectangle status-primary nb-transition&quot;]</value>
-      <webElementGuid>4ed08bc5-54c3-4be3-b13f-6d47d95a72f6</webElementGuid>
+      <webElementGuid>032df338-4f4a-4f34-a8ab-d878dd0428b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
-      <webElementGuid>a24cef54-5291-4641-a576-8ac85dc322fc</webElementGuid>
+      <webElementGuid>83084b94-21c6-422e-a2f5-8d37e89438a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/following::button[1]</value>
-      <webElementGuid>e251424f-3770-4c0c-afc2-5444e40049c6</webElementGuid>
+      <webElementGuid>0df81cf8-7ab3-46cb-afc0-371155a76658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Materi Belajar'])[1]/preceding::button[1]</value>
-      <webElementGuid>5ff5e0c0-ff6a-40df-90b4-27296b44cbad</webElementGuid>
+      <webElementGuid>e050fa0c-ff1e-4ceb-a459-851ec8340255</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[2]/preceding::button[1]</value>
-      <webElementGuid>6dbac1bb-dde2-47be-97eb-624c937cf1b1</webElementGuid>
+      <webElementGuid>610f3e13-9a58-467d-bfba-fa4a607af19e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pilih jenis program']/parent::*</value>
-      <webElementGuid>28ef82b5-b31f-4188-9850-1e06548c526a</webElementGuid>
+      <webElementGuid>37c31eb2-fd7b-4442-819c-5103100dfdc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>1a8210fc-3651-497c-8bc5-33d343cf2bab</webElementGuid>
+      <webElementGuid>a5573108-baaa-4451-80cf-274c3f6afa70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Pilih jenis program ' or . = ' Pilih jenis program ')]</value>
-      <webElementGuid>bc04f6b7-ad50-4d90-82a1-8d0eb4c49501</webElementGuid>
+      <webElementGuid>946487d0-ed98-4461-a245-56011e25f327</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
