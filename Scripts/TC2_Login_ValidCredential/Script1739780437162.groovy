@@ -21,7 +21,7 @@ import javax.swing.JOptionPane as JOptionPane
 
 // Buka browser dan navigasi ke halaman login
 WebUI.openBrowser('')
-WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/login')
+WebUI.navigateToUrl("${GlobalVariable.BASE_URL}/login")
 WebUI.maximizeWindow()
 
 // Verifikasi elemen penting di halaman login
@@ -44,12 +44,12 @@ WebUI.setEncryptedText(findTestObject('Page_Login/input_password'), 'iFGeFYmXIrU
 WebUI.click(findTestObject('Page_Login/button_login'))
 
 // Menunggu dan menangani popup jika muncul
-TestObject buttonSayaMengerti = findTestObject('Page_Dashboard/button_Saya mengerti')
-
-if (WebUI.waitForElementPresent(buttonSayaMengerti, 5)) {
-	WebUI.click(buttonSayaMengerti)
-	WebUI.comment('Popup muncul, tombol diklik.')
-}
+//TestObject buttonSayaMengerti = findTestObject('Page_Dashboard/button_Understand')
+//
+//if (WebUI.verifyElementVisible(buttonSayaMengerti, FailureHandling.OPTIONAL)) {
+//	WebUI.click(buttonSayaMengerti)
+//	WebUI.comment('Popup muncul, tombol diklik.')
+//}
 
 // Verifikasi navigasi ke dashboard
 WebUI.verifyMatch(WebUI.getUrl(), 'https://dev.enigmacamp.com/apps/portal/dashboard', false)

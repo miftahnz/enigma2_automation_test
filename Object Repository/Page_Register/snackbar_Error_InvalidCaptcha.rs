@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>snackbar_Error_InvalidCaptcha</name>
+   <tag></tag>
+   <elementGuidId>9ee63516-70fa-4749-ba82-49532ff3b04e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#alert</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='alert']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2d6b361-dfe3-4b02-9ccb-bc448c90e854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>b9bdcb99-6ac3-4980-83ac-c320c8bb615c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-100 text-center bgc-danger text-white rectangle p-3 mb-3 bold-600</value>
+      <webElementGuid>59c09428-5361-47bc-96a5-ae0f528ea05a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Captcha tidak sesuai.</value>
+      <webElementGuid>6fcf663c-56d4-4f19-8760-ea03f14554b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert&quot;)</value>
+      <webElementGuid>80b1cfae-d1ca-4e96-8129-62b21ec6a2c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='alert']</value>
+      <webElementGuid>07a55529-c0d2-45d6-998c-a2bbe416e5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Akun Baru'])[1]/following::div[1]</value>
+      <webElementGuid>cd946179-defe-49ad-8e30-b854b99ef654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::div[3]</value>
+      <webElementGuid>424a81d2-7aee-4757-8827-1b258aff902d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[9]</value>
+      <webElementGuid>6a31332c-a6a9-48ed-bd0f-9f36be95301b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Captcha tidak sesuai.']/parent::*</value>
+      <webElementGuid>2c2e7ebd-f33a-4b9a-a84b-47d64e2d4540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>983ec73f-1fd9-4f3e-a0e2-2a6e1d5415b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'alert' and (text() = 'Captcha tidak sesuai.' or . = 'Captcha tidak sesuai.')]</value>
+      <webElementGuid>a359176a-3032-4b04-8142-4a0e2147df51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

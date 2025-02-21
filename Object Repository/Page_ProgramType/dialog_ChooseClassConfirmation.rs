@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dialog_ChooseClassConfirmation</name>
+   <tag></tag>
+   <elementGuidId>178d6a69-19e5-4dc9-9b60-bde891a119f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-row.p-3.bg-primary.rounded-top.px-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-2']/nb-dialog-container/ngx-confirmation/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>87cf7ba2-0780-44e7-a49e-4ec621a3b830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-row p-3 bg-primary rounded-top px-3</value>
+      <webElementGuid>c200b675-9f94-403f-998b-56e742a2ad1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Konfirmasi</value>
+      <webElementGuid>20c28813-c556-4bf8-953b-191b9cdc3281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)/nb-dialog-container[1]/ngx-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column bg-light rounded-lg&quot;]/div[@class=&quot;d-flex flex-row p-3 bg-primary rounded-top px-3&quot;]</value>
+      <webElementGuid>8f7f4881-cfc4-4d09-be0d-7223c00d287c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-2']/nb-dialog-container/ngx-confirmation/div/div</value>
+      <webElementGuid>e3db13c0-a2a4-46b2-bd02-355c52e59040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/following::div[7]</value>
+      <webElementGuid>f05ec85b-91f8-48bb-be4b-2270bf6b864e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Bootcamp'])[2]/preceding::div[2]</value>
+      <webElementGuid>7bbd8918-a0a9-4f8b-8da2-10aa520dbb8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-confirmation/div/div</value>
+      <webElementGuid>66549944-7b4b-4c69-afe2-fad617462ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Konfirmasi' or . = 'Konfirmasi')]</value>
+      <webElementGuid>c23587ac-6bff-4b02-a707-4160fc656e49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

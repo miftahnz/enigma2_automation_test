@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_EmailVerification</name>
+   <tag></tag>
+   <elementGuidId>eb462b4d-a1a1-4c16-91f9-87e2c8bf4bab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.fw-bolder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='successRegister']/div/div/div/div/div/div[3]/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>d5f2bdfe-4f82-407e-9d01-37b8bad27a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-bolder</value>
+      <webElementGuid>d4f42ba2-b877-41b9-831a-02d395b449bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi Email</value>
+      <webElementGuid>36bbda99-56ff-40d3-8aa8-d51ac138b89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;successRegister&quot;)/div[@class=&quot;modal-dialog modal-dialog-success-register&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 p-4&quot;]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-12 d-flex justify-content-center&quot;]/h1[@class=&quot;fw-bolder&quot;]</value>
+      <webElementGuid>b987ab51-8734-42a1-bf47-adb98517228f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='successRegister']/div/div/div/div/div/div[3]/div/h1</value>
+      <webElementGuid>1799b07c-dda4-4c23-ba2c-cc3a7bfa12e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, saya setuju'])[1]/following::h1[1]</value>
+      <webElementGuid>88039077-2a92-41cb-9237-7757c113135b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan Privy'])[1]/following::h1[1]</value>
+      <webElementGuid>e5af51ee-612f-456d-aee8-5075d15dacdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hampir selesai!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c571b5d4-d6ab-481f-866c-f81c95aea9f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='your.name@yopmail.com'])[1]/preceding::h1[1]</value>
+      <webElementGuid>38f25a9a-932e-4025-8f1b-d3e8f6f1cc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verifikasi Email']/parent::*</value>
+      <webElementGuid>b44e7919-7202-4b9e-ab36-11d6b0dcc3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>114f7707-edaf-40e9-8837-0dd6328449bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Verifikasi Email' or . = 'Verifikasi Email')]</value>
+      <webElementGuid>c06b270a-08fc-436c-99f9-8a273af6690e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

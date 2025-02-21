@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_2_Incubation</name>
+   <tag></tag>
+   <elementGuidId>ea30f172-de1b-4892-9eb1-fee91c245707</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-5']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div[2]/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5aacf5ed-42bc-4ba6-8c9a-832ab0ea5dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>03d0934e-b278-4f9e-b63a-fc6b34c6676f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-5&quot;)/nb-dialog-container[1]/ngx-preview-tnc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;col-12 col-lg-8 col-md-10 h-75&quot;]/nb-card[@class=&quot;border-none accent accent-primary&quot;]/nb-card-body[@class=&quot;border-none&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row mb-2 ng-star-inserted&quot;]/div[@class=&quot;col-1 mt-1&quot;]/nb-checkbox[@class=&quot;status-basic nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>9ec67f7f-b9ba-46dc-87a1-dd426b9dd82a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-5']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div[2]/div/nb-checkbox/label/span</value>
+      <webElementGuid>1e09b2a4-af38-48b9-aee2-84ef81ba20e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya sudah lulus SMA/SMK/S1/sederajat atau menempuh semester akhir.'])[1]/following::span[1]</value>
+      <webElementGuid>aac8c56c-3a56-4c81-95ed-198cada12021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelum melanjutkan, mohon konfirmasi pernyataan di bawah ini!'])[1]/following::span[3]</value>
+      <webElementGuid>08604667-9a82-473c-8eac-23fe5476e945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya bersedia mengikuti kelas inkubasi.'])[1]/preceding::span[2]</value>
+      <webElementGuid>a6b3492a-ff5a-4e8f-a190-bf076b4a7fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/preceding::span[4]</value>
+      <webElementGuid>1f3feba4-e1fb-4b3c-9197-f70f88096c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nb-checkbox/label/span</value>
+      <webElementGuid>c4cc2aae-9041-4ab0-9ece-4056dd9a58a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

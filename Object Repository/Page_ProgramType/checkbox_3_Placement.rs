@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_3_Placement</name>
+   <tag></tag>
+   <elementGuidId>2077b7cc-930d-4768-a326-67099f92ab50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-5']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div[3]/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0760d1c7-877a-49da-a8ee-e90d6f798c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>6eb73ebb-5cea-4fe9-9d8d-884c665ffada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-5&quot;)/nb-dialog-container[1]/ngx-preview-tnc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;col-12 col-lg-8 col-md-10 h-75&quot;]/nb-card[@class=&quot;border-none accent accent-primary&quot;]/nb-card-body[@class=&quot;border-none&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row mb-2 ng-star-inserted&quot;]/div[@class=&quot;col-1 mt-1&quot;]/nb-checkbox[@class=&quot;status-basic nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>a7ce973d-69cd-4d7f-b679-fec8c2e20f92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-5']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div[3]/div/nb-checkbox/label/span</value>
+      <webElementGuid>7cc29ad7-7577-4fce-a6fd-44bf149e3868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya bersedia mengikuti kelas inkubasi.'])[1]/following::span[1]</value>
+      <webElementGuid>54106655-5669-4450-b396-790fad8722f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya sudah lulus SMA/SMK/S1/sederajat atau menempuh semester akhir.'])[1]/following::span[3]</value>
+      <webElementGuid>0a8c63cb-f30f-43a3-b846-28e910cc3ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef0691fe-34a3-41d1-a6be-d08ff7d9299d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/nb-checkbox/label/span</value>
+      <webElementGuid>6ebe56c8-222e-4ac1-96a5-0cfa9225ca84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

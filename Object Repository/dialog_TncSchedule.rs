@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dialog_TncSchedule</name>
+   <tag></tag>
+   <elementGuidId>c383609c-1637-4ca7-888b-667088c9f745</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mr-auto.fs-3.color-white.bold-600</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/nb-dialog-container/ngx-schedule-tnc/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cefc6680-9341-4490-a61c-37b3aa2607e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-auto fs-3 color-white bold-600</value>
+      <webElementGuid>43aa579c-b014-4cd3-8f6a-339630704a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silakan pilih jadwal T&amp;C Meeting yang tersedia</value>
+      <webElementGuid>5f12cd90-d901-4290-80fa-71629f25b805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/ngx-schedule-tnc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container d-flex justify-content-center align-items-center&quot;]/div[@class=&quot;d-flex flex-column bg-light rounded-lg mx-3 max-height-width&quot;]/div[@class=&quot;d-flex flex-row p-3 bg-primary rounded-top px-3&quot;]/div[@class=&quot;mr-auto fs-3 color-white bold-600&quot;]</value>
+      <webElementGuid>3cb32185-910d-4aa9-8885-eb0d62cb6100</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nb-dialog-container/ngx-schedule-tnc/div/div/div/div</value>
+      <webElementGuid>be9e29ee-2d8c-4282-b915-d0da0688787c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/following::div[11]</value>
+      <webElementGuid>1118179f-7fec-4abf-91f9-f2deb3821940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hari / Tanggal'])[1]/preceding::div[1]</value>
+      <webElementGuid>f03510d6-5635-4f45-9b5e-16cfd8e25978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minggu, 30 November 2025'])[1]/preceding::div[1]</value>
+      <webElementGuid>38d0ce0d-7c2f-45b5-bb89-3236714d1446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Silakan pilih jadwal T&amp;C Meeting yang tersedia']/parent::*</value>
+      <webElementGuid>d0fd19a1-713e-48a9-a422-dd6d3eaf59e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-schedule-tnc/div/div/div/div</value>
+      <webElementGuid>7809fe56-3ba3-48a8-ab83-fcfe63aba262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silakan pilih jadwal T&amp;C Meeting yang tersedia' or . = 'Silakan pilih jadwal T&amp;C Meeting yang tersedia')]</value>
+      <webElementGuid>b8c21995-78a3-4675-b6f4-810f4be1e1af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

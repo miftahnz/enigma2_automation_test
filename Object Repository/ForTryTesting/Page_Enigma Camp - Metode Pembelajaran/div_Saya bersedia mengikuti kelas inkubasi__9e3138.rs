@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Saya bersedia mengikuti kelas inkubasi__9e3138</name>
+   <tag></tag>
+   <elementGuidId>79bfd184-ce00-4f05-bb49-09bb0f6d655a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-1']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b8319d6-d411-4132-83fa-b2372334b4e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-1 mt-1</value>
+      <webElementGuid>5ee15649-1cb6-4e52-9023-f27e9a3c84b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-1&quot;)/nb-dialog-container[1]/ngx-preview-tnc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;col-12 col-lg-8 col-md-10 h-75&quot;]/nb-card[@class=&quot;border-none accent accent-primary&quot;]/nb-card-body[@class=&quot;border-none&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row mb-2 ng-star-inserted&quot;]/div[@class=&quot;col-1 mt-1&quot;]</value>
+      <webElementGuid>c83bf63f-9506-4489-962a-edf1c6078a60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/nb-dialog-container/ngx-preview-tnc/div/div/div/nb-card/nb-card-body/div[2]/div[2]/div[3]/div</value>
+      <webElementGuid>3d5eb666-f0ed-4877-a969-4b1966a8f859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya bersedia mengikuti kelas inkubasi.'])[1]/following::div[2]</value>
+      <webElementGuid>4893db35-7010-4080-b393-66b5c63ca0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya sudah lulus SMA/SMK/S1/sederajat atau menempuh semester akhir.'])[1]/following::div[5]</value>
+      <webElementGuid>b4ab54f6-bbee-48cf-ba7e-747802086533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/preceding::div[2]</value>
+      <webElementGuid>9cade0e5-c5ad-4b01-9cdf-a8efe70f4b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>f006eb4a-db8e-4518-a864-9d568c56d409</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

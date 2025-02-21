@@ -6,12 +6,12 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'user.auto.kutcf.810@yopmail.com'</initValue>
       <name>registeredEmail</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
-      <name>fullname</name>
+      <initValue>'https://dev.enigmacamp.com/api/auth'</initValue>
+      <name>BASE_URL</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

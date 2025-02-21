@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_RefreshCaptcha</name>
+   <tag></tag>
+   <elementGuidId>ccaddf4b-4abd-4cfe-8f21-87efd9f31f7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-sync-alt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='refresh']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>03e61b5d-79cb-473e-9bcd-dfa225617c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-sync-alt</value>
+      <webElementGuid>ea9fcd61-368b-4972-a384-d2ad1fdb9533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refresh&quot;)/i[@class=&quot;fas fa-sync-alt&quot;]</value>
+      <webElementGuid>b5c5b393-fc6b-438e-b453-cc63e93857db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='refresh']/i</value>
+      <webElementGuid>39cf3c69-93f4-473f-b82e-5ca0d1e99634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button/i</value>
+      <webElementGuid>2e2ae1d3-6364-48d4-9fce-4acec59355ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

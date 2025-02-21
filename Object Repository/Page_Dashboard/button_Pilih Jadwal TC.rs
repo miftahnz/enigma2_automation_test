@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Jadwal TC</name>
+   <tag></tag>
+   <elementGuidId>d67f5126-ac70-461f-a6d2-c46ef14bec91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-capitalize.appearance-filled.size-small.shape-rectangle.status-primary.nb-transition</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik Disini'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a0864818-c03a-4558-a25d-60db9c6a7208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/learning-method</value>
+      <webElementGuid>2e93ad5e-82c2-4030-9085-f97740e20dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>4c3b4cb9-d595-4185-99f7-2d6e0a6e1d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shape</name>
+      <type>Main</type>
+      <value>rectangle</value>
+      <webElementGuid>2dc939f3-8da7-4058-9b45-63c01bd7cdcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>status</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>18fb9058-fd85-49d2-b0f5-c191a2cb02c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize appearance-filled size-small shape-rectangle status-primary nb-transition</value>
+      <webElementGuid>f48a5f75-ea8d-429d-bdb9-3a53db649693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>174e5f20-93a8-4000-b3d0-a68ddd97950e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f4b80142-cb36-4656-a124-20b7098337fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pilih Jadwal T&amp;C </value>
+      <webElementGuid>c25152b2-7129-4ac2-b204-f310a7961f2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default        pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5 cmax-width&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;timeline-body w-100&quot;]/div[@class=&quot;d-flex flex-column rounded border p-2 mt-3 ng-star-inserted&quot;]/div[@class=&quot;px-0 col-12 text-right&quot;]/button[@class=&quot;text-capitalize appearance-filled size-small shape-rectangle status-primary nb-transition&quot;]</value>
+      <webElementGuid>47df3456-2216-4b0d-9fa0-3bcad3ce8f95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik Disini'])[1]/following::button[1]</value>
+      <webElementGuid>2ad4d3ff-f90e-4dc1-a90d-e1890ad9d097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[4]/following::button[1]</value>
+      <webElementGuid>a4e3dad8-e15f-4af4-8566-44884345b065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganti Program'])[1]/preceding::button[1]</value>
+      <webElementGuid>253555fa-e7f6-47da-8665-75484c04ffaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Materi Belajar'])[1]/preceding::button[2]</value>
+      <webElementGuid>f9b9fe6d-acde-4842-9189-1745213394da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Jadwal T&amp;C']/parent::*</value>
+      <webElementGuid>1833e2bb-dbe2-4a8b-927d-dfee5897a318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>e6dd0888-14d8-4f4b-bafc-987d4a7cd996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Pilih Jadwal T&amp;C ' or . = ' Pilih Jadwal T&amp;C ')]</value>
+      <webElementGuid>5213cd24-127a-4723-8d86-67f69956e54f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
