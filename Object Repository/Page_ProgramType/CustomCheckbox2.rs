@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//nb-dialog-container//nb-checkbox/label/span)[2]</value>
+         <value>//*[contains(@class, 'custom-checkbox')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

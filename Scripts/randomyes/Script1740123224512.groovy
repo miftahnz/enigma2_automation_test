@@ -37,13 +37,18 @@ WebUI.click(findTestObject('Object Repository/ForTryTesting/Page_Enigma Camp - M
 
 //TestObject myObject = findTestObject('Object Repository/ForTryTesting/Page_Enigma Camp - Metode Pembelajaran/span_Sebelum melanjutkan, mohon konfirmasi _161a70')
 
-WebUI.delay(3)
-WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox'))
-WebUI.delay(3)
-WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox2'))
-WebUI.delay(3)
-WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox3'))
-WebUI.delay(3)
+import org.openqa.selenium.WebDriver
+import org.openqa.selenium.WebElement
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.By
+import com.kms.katalon.core.webui.common.WebUiCommonHelper
+
+WebDriver driver = DriverFactory.getWebDriver()
+//List<WebElement> elements = driver.findElements(By.xpath("//*[contains(@class, 'custom-checkbox')]"))
+List<WebElement> elements = WebUiCommonHelper.findWebElements(findTestObject('Page_ProgramType/CustomCheckbox'), 10)
+for (int i = 0; i < Math.min(3, elements.size()); i++) {
+	elements.get(i).click()
+}
 //
 //WebUI.click(findTestObject('Object Repository/ForTryTesting/Page_Enigma Camp - Metode Pembelajaran/span_Sebelum melanjutkan, mohon konfirmasi _161a70'))
 //

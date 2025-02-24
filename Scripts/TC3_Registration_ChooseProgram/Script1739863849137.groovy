@@ -16,6 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.common.WebUiCommonHelper
+import org.openqa.selenium.WebElement
 
 // =========================================
 // Call Test Case Login
@@ -73,9 +75,17 @@ if(!isProgramSelected) {
 
 WebUI.click(findTestObject('Page_ProgramType/button_SkipTnc'))
 
-WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox'))
-WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox2'))
-WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox3'))
+//WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox'))
+//WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox2'))
+//WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox3'))
+
+
+//WebDriver driver = DriverFactory.getWebDriver()
+//List<WebElement> elements = driver.findElements(By.xpath("//*[contains(@class, 'custom-checkbox')]"))
+List<WebElement> elements = WebUiCommonHelper.findWebElements(findTestObject('Page_ProgramType/CustomCheckbox'), 10)
+for (int i = 0; i < Math.min(3, elements.size()); i++) {
+	elements.get(i).click()
+}
 
 WebUI.click(findTestObject('Page_ProgramType/button_SendConfirmationTnc'))
 

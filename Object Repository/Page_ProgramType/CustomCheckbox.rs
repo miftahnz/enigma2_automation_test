@@ -4,23 +4,19 @@
    <name>CustomCheckbox</name>
    <tag></tag>
    <elementGuidId>d6cb30f1-60fe-4ab5-8b3c-87f00eab3113</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//nb-dialog-container//nb-checkbox/label/span)[1]</value>
+         <value>//*[contains(@class, 'custom-checkbox')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

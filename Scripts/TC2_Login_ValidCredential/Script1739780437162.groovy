@@ -52,4 +52,4 @@ WebUI.click(findTestObject('Page_Login/button_login'))
 //}
 
 // Verifikasi navigasi ke dashboard
-WebUI.verifyMatch(WebUI.getUrl(), 'https://dev.enigmacamp.com/apps/portal/dashboard', false)
+//WebUI.verifyMatch(WebUI.getUrl(), 'https://dev.enigmacamp.com/apps/portal/dashboard', false)

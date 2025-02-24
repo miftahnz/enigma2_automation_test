@@ -81,3 +81,7 @@ Proyek ini menggunakan lisensi **MIT License**.
 
 📩 Jika ada pertanyaan atau saran, silakan buka **Issue** atau hubungi saya melalui email!
 
+## 📝 Additional Notes
+- Beberapa hal yang bisa ditambahkan untuk automation script yang lebih baik:
+	- Id Unik untuk setiap objek atau elemen website terutama elemen yang interactive, seperti tombol, checkbox, dsb.
+	- Toogle untuk menonactivkan fitur Captcha ketika automation test dijalankan, agar tidak perlu tindakan tambahan diluar script automation, seperti input captcha manual.
