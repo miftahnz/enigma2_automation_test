@@ -6,7 +6,7 @@ Repository ini berisi automation testing project yang dibuat menggunakan **Katal
 
 ## 🛠 Tech Stack
 
-- **Katalon Studio** **Free** (v9.5.0)
+- **Katalon Studio** **Free** (free v9.5.0)
 - **Groovy** (Sebagai bahasa scripting)
 - **Selenium WebDriver** (Digunakan dalam Katalon)
 - **Jenkins** (Opsional, untuk CI/CD)
