@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>UnusedObjectDetector</name>
+   <name>REGISTRATION_STEP_REFERENCES</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f012a469-3fe8-4ed0-9652-68e0e7427044</testCaseGuid>
+   <testCaseGuid>01dd9448-797f-43c9-96c1-e30f0bf59f5d</testCaseGuid>
 </TestCaseEntity>
