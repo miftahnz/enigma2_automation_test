@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UnusedObjectDetector</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f012a469-3fe8-4ed0-9652-68e0e7427044</testCaseGuid>
+</TestCaseEntity>

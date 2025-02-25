@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_password</name>
+   <name>div_BOGOR</name>
    <tag></tag>
-   <elementGuidId>6a30781b-1264-49e8-a790-2f30f1b0f4a1</elementGuidId>
+   <elementGuidId>52a18358-fcea-4039-abda-f7e86a5566ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#password</value>
+         <key>XPATH</key>
+         <value>//div[@id='a913b9613f9c-87']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <key>CSS</key>
+         <value>#a913b9613f9c-87</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>08b7d721-cb5c-4dff-b64c-730d78333961</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>2</value>
-      <webElementGuid>553c2dd3-47a4-4e29-969f-959be5445160</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>c88ef5d5-080f-4ede-8f24-5db60a69498e</webElementGuid>
+      <value>div</value>
+      <webElementGuid>5f379c33-9039-4e07-8acf-28bd9ae4116c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>floating-input text-medium color-medium input form-control font-size-14 invalid-input</value>
-      <webElementGuid>ea2c11cd-c2aa-44ff-b355-3fdf659c13ef</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>17379621-9bf7-4cf7-a144-ad90165baa04</webElementGuid>
+      <value>ng-option ng-star-inserted ng-option-marked</value>
+      <webElementGuid>6ff82a57-97d4-4e90-8147-2de88e0d0e1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>role</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>9a90546a-e888-422e-87da-4ee684e72cb9</webElementGuid>
+      <value>option</value>
+      <webElementGuid>f61226ce-d4b0-4cf5-8735-6bcb644bb540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3cb037b7-ee20-45cf-9e32-f56999080653</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>a623d1a8-261e-4c3a-9730-91056d2857d1</webElementGuid>
+      <value>a913b9613f9c-87</value>
+      <webElementGuid>b8a1a912-8d61-480d-9016-cb2d70f4b34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BOGOR</value>
+      <webElementGuid>15e719da-c4b2-4080-bb57-fc2bb125a63c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>a9699190-e0a9-4895-945f-49822aabd214</webElementGuid>
+      <value>id(&quot;a913b9613f9c-87&quot;)</value>
+      <webElementGuid>fa18779b-b3ab-4a4c-9cfd-2f18a5a7d13f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>42e64599-6ca0-4534-ad4a-005f8bdce5ae</webElementGuid>
+      <value>//div[@id='a913b9613f9c-87']</value>
+      <webElementGuid>c2c2e41f-365c-4e21-a62a-5c8a2c3c2d76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='id-form-login']/div[2]/div/div[2]/input</value>
-      <webElementGuid>05b61a7f-90b7-4c6e-aa48-bda41b068a72</webElementGuid>
+      <value>//ng-dropdown-panel[@id='a913b9613f9c']/div/div[2]/div[2]</value>
+      <webElementGuid>58e5423f-0377-4331-9620-acae74e5ec8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOGOR'])[1]/following::div[1]</value>
+      <webElementGuid>0a1fc189-fdf7-439f-a28c-fa7f2c266a54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/input</value>
-      <webElementGuid>643afa21-8f7d-4ea1-a864-607704643474</webElementGuid>
+      <value>//ng-dropdown-panel/div/div[2]/div[2]</value>
+      <webElementGuid>dd7648e8-7283-48a8-8619-047698870370</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'password' and @type = 'password' and @name = 'password']</value>
-      <webElementGuid>6976a56d-7079-4cbb-bab7-c4e4409b60ce</webElementGuid>
+      <value>//div[@id = 'a913b9613f9c-87' and (text() = 'BOGOR' or . = 'BOGOR')]</value>
+      <webElementGuid>aa250da8-5160-4996-93b0-ca63607ee45b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -20,37 +20,8 @@ import com.kms.katalon.core.webui.common.WebUiCommonHelper
 import org.openqa.selenium.WebElement
 
 // =========================================
-// Call Test Case Login
+// STEP 1: Choose Program Type
 // =========================================
-//WebUI.callTestCase(findTestCase('TC2_Login_ValidCredential'), [:], FailureHandling.STOP_ON_FAILURE)
-// Buka browser dan navigasi ke halaman login
-//WebUI.openBrowser('')
-//WebUI.navigateToUrl('https://dev.enigmacamp.com/api/auth/login')
-//WebUI.maximizeWindow()
-// Verifikasi elemen penting di halaman login
-//TestObject loginImage = findTestObject('Page_Login/img')
-//TestObject loginLabel = findTestObject('Page_Login/label_Masuk Dashboard')
-//
-//WebUI.verifyElementVisible(loginImage)
-//WebUI.verifyElementVisible(loginLabel)
-// Ambil email dari GlobalVariable atau minta input jika kosong
-//String email = GlobalVariable.registeredEmail.isBlank() ?
-//	JOptionPane.showInputDialog('Masukkan email:') :
-//	GlobalVariable.registeredEmail
-//
-//// Input email dan password
-//WebUI.setText(findTestObject('Page_Login/input_username'), email)
-//WebUI.setEncryptedText(findTestObject('Page_Login/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-//
-//// Klik tombol login
-//WebUI.click(findTestObject('Page_Login/button_login'))
-// =========================================
-//WebUI.delay(5)
-
-//WebUI.verifyElementText(findTestObject('Object Repository/strong_Selamat datang di laman IT Bootcamp _95e55d'), 'Selamat datang di laman IT Bootcamp Enigma Camp.')
-
-//WebUI.verifyElementClickable(findTestObject('Page_Dashboard/button_ChooseProgram'))
-
 def ChooseProgramType() {
 	WebUI.click(findTestObject('Page_Dashboard/button_ChooseProgram'))
 	WebUI.click(findTestObject('Page_ProgramType/button_ChooseOnlineClass'))
@@ -65,7 +36,10 @@ if(!isProgramSelected) {
 	if(!WebUI.verifyElementVisible(buttonSeeSchedule, FailureHandling.OPTIONAL)) {
 		ChooseProgramType()
 	}
-	
+
+// =========================================
+// STEP 2: Select TNC Schedule
+// =========================================
 	WebUI.click(buttonSeeSchedule)
 	
 	WebUI.click(findTestObject('Page_ProgramType/button_SelectSchedule'))
@@ -73,20 +47,14 @@ if(!isProgramSelected) {
 	WebUI.click(findTestObject('Page_Dashboard/button_Pilih Jadwal TC'))
 }
 
+// =========================================
+// STEP 3: Skip TNC
+// =========================================
 WebUI.click(findTestObject('Page_ProgramType/button_SkipTnc'))
-
-//WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox'))
-//WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox2'))
-//WebUI.click(findTestObject('Page_ProgramType/CustomCheckbox3'))
-
-
-//WebDriver driver = DriverFactory.getWebDriver()
-//List<WebElement> elements = driver.findElements(By.xpath("//*[contains(@class, 'custom-checkbox')]"))
 List<WebElement> elements = WebUiCommonHelper.findWebElements(findTestObject('Page_ProgramType/CustomCheckbox'), 10)
 for (int i = 0; i < Math.min(3, elements.size()); i++) {
 	elements.get(i).click()
 }
-
 WebUI.click(findTestObject('Page_ProgramType/button_SendConfirmationTnc'))
 
 WebUI.click(findTestObject('Page_Dashboard/button_Understand'))

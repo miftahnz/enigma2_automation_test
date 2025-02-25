@@ -6,12 +6,12 @@
    <elementGuidId>4f0b96ff-a995-43b4-9c9a-d8f88447a956</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-primary.fs-4.bold-500</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.fs-4.bold-500</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

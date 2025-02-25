@@ -41,8 +41,6 @@ WebUI.click(findTestObject('Object Repository/button_Kirim'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/h5_Panduan TC'), 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/button_Saya mengerti'))
-
 WebUI.click(findTestObject('Object Repository/button_Saya mengerti'))
 
 WebUI.click(findTestObject('Object Repository/a_Selengkapnya'))

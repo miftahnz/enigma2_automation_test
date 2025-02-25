@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>CustomCheckbox2</name>
+   <name>button_Yes</name>
    <tag></tag>
-   <elementGuidId>6d1f030a-8438-4024-b6f6-5ddcc5cf29dd</elementGuidId>
+   <elementGuidId>26b41fba-5f0e-474f-a9a0-464aced720ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[contains(@class, 'custom-checkbox')]</value>
+         <value>//div[starts-with(@id, 'cdk-overlay-')]/nb-dialog-container/ngx-confirmation/div/div[3]/button[2]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

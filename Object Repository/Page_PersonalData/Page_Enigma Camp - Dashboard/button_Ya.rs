@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Ya</name>
    <tag></tag>
-   <elementGuidId>f71a38ed-5b0a-43e4-9afc-0c8fb1e850b5</elementGuidId>
+   <elementGuidId>cc8e4c82-c1cd-44a5-856c-2a08a982b782</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.appearance-filled.size-medium.shape-rectangle.status-primary.nb-transition</value>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-2']/nb-dialog-container/ngx-confirmation/div/div[3]/button[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cdk-overlay-7']/nb-dialog-container/ngx-confirmation/div/div[3]/button[2]</value>
+         <key>CSS</key>
+         <value>div.d-flex.flex-row.w-100.justify-content-end.rounded-bottom.pb-3.pr-3 > button.appearance-filled.size-medium.shape-rectangle.status-primary.nb-transition</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7f70b35c-c253-4675-8bd2-c249863de5ca</webElementGuid>
+      <webElementGuid>87ec55c2-8f7c-4642-b9da-51212a752ae3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>84a58bae-2a40-4ccd-92e6-22d456e47295</webElementGuid>
+      <webElementGuid>06634112-7375-4651-9441-4d9347def6a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>c900dc02-35c6-40ba-ab7e-4234c6da57a1</webElementGuid>
+      <webElementGuid>847429a9-2539-4a1d-912d-50572472a91b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>a6e76f29-b239-4261-b757-1ede4dea4d9b</webElementGuid>
+      <webElementGuid>6fb05809-5829-4f23-b9a9-d412835d5b1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b7722d7d-d923-493d-a70a-599cc5c86ea1</webElementGuid>
+      <webElementGuid>b0274c99-14c5-4bc2-a153-6fd0a2fe5323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>753ea1e0-5a16-4a0a-bf6a-7a58f78d8176</webElementGuid>
+      <webElementGuid>599a9b26-8036-42ed-8c73-4bda0bf8738c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>appearance-filled size-medium shape-rectangle status-primary nb-transition</value>
-      <webElementGuid>b7f34267-f6dc-46ae-b79b-b4ee11132583</webElementGuid>
+      <webElementGuid>d731808c-9499-4163-aed1-abb16a2a2fb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,39 +79,39 @@
       <name>text</name>
       <type>Main</type>
       <value>Ya</value>
-      <webElementGuid>a1ab1454-e315-4499-bbc2-66d5e79672d8</webElementGuid>
+      <webElementGuid>f555f90c-c8cd-4183-9748-6af23d51f4ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-7&quot;)/nb-dialog-container[1]/ngx-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column bg-light rounded-lg&quot;]/div[@class=&quot;d-flex flex-row w-100 justify-content-end rounded-bottom pb-3 pr-3&quot;]/button[@class=&quot;appearance-filled size-medium shape-rectangle status-primary nb-transition&quot;]</value>
-      <webElementGuid>c744b634-a683-405c-b9ad-b353bc2911af</webElementGuid>
+      <value>id(&quot;cdk-overlay-2&quot;)/nb-dialog-container[1]/ngx-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column bg-light rounded-lg&quot;]/div[@class=&quot;d-flex flex-row w-100 justify-content-end rounded-bottom pb-3 pr-3&quot;]/button[@class=&quot;appearance-filled size-medium shape-rectangle status-primary nb-transition&quot;]</value>
+      <webElementGuid>ca15ca2c-33a0-454a-87ad-2f9faf5c1cba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-overlay-7']/nb-dialog-container/ngx-confirmation/div/div[3]/button[2]</value>
-      <webElementGuid>65e206ae-c0d2-4115-bf83-ed7ef275aa35</webElementGuid>
+      <value>//div[@id='cdk-overlay-2']/nb-dialog-container/ngx-confirmation/div/div[3]/button[2]</value>
+      <webElementGuid>141178af-e659-45dd-8b31-6e0739b16094</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
-      <webElementGuid>41f44330-0b40-4a4a-8c7b-305552279eea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/following::button[1]</value>
+      <webElementGuid>6e9ecc11-c46b-4fe0-85e2-d9d48c0e93a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='BATAL'])[1]/following::button[2]</value>
-      <webElementGuid>58e2bc6c-d1da-4e3f-932c-b59e4372b84a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu yakin ingin melewati fitur trial kelas ini ?'])[1]/following::button[2]</value>
+      <webElementGuid>6c7516b8-48b3-4c3f-8cf0-d6bc7a2e9150</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,15 +119,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
-      <webElementGuid>53797e4d-b365-495e-9998-b947b71b953d</webElementGuid>
+      <webElementGuid>f991cc96-295d-473d-b773-ed6d4b1853af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ngx-confirmation/div/div[3]/button[2]</value>
-      <webElementGuid>6b2b1876-1b0b-47f6-a46a-4f4702fb0e10</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>a870860b-5669-4a4e-beed-faf0dfde394c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Ya' or . = 'Ya')]</value>
-      <webElementGuid>6bb3843b-c96c-4f20-82b2-6383cec42460</webElementGuid>
+      <webElementGuid>ce37cc3c-c0c9-46bf-a1e9-d33b0ba7fa61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

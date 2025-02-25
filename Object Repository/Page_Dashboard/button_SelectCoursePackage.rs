@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ChooseClassMaterial</name>
+   <name>button_SelectCoursePackage</name>
    <tag></tag>
    <elementGuidId>45d8c305-762e-42d2-98b1-677ee95b5ed0</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.text-capitalize.appearance-filled.btn-disabled.size-medium.shape-rectangle.status-primary.ng-star-inserted.nb-transition</value>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Pilih materi belajar ' or . = ' Pilih materi belajar ')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[2]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-capitalize.appearance-filled.size-medium.shape-rectangle.status-primary.ng-star-inserted.nb-transition</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a31cbb16-3070-4522-8b23-813478c4c3c3</webElementGuid>
+      <webElementGuid>d63f2e55-e830-4266-9ee2-57aec664fcc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +40,7 @@
       <name>routerlink</name>
       <type>Main</type>
       <value>/course-package</value>
-      <webElementGuid>9b48c5b3-8d24-41df-abb1-0a1becca9e32</webElementGuid>
+      <webElementGuid>d3b316df-0b31-4425-9004-8a2fe4256ad4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +48,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>4c019e7b-ee01-45b2-9f55-72f07bec84d3</webElementGuid>
+      <webElementGuid>c3d65015-a181-49f8-a891-6cd39071ec76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +56,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>625ec1b7-0431-46eb-a441-0167e1ccbe09</webElementGuid>
+      <webElementGuid>926908ca-2fce-4941-be8a-b20b3daac753</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,31 +64,31 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>66d8ccc0-36b2-4816-881a-758bc61ab2c8</webElementGuid>
+      <webElementGuid>a0c4c51e-8548-4a6d-bb56-6fa4e724b601</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-capitalize appearance-filled btn-disabled size-medium shape-rectangle status-primary ng-star-inserted nb-transition</value>
-      <webElementGuid>113b7a50-5150-49d0-8c29-4baf8df4d5cb</webElementGuid>
+      <value>text-capitalize appearance-filled size-medium shape-rectangle status-primary ng-star-inserted nb-transition</value>
+      <webElementGuid>88b3bee1-de1a-4074-89de-59aeeeb68970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>f0ed5dcf-d733-4f8d-a766-ffb7c82e6cc3</webElementGuid>
+      <value>0</value>
+      <webElementGuid>460eb249-7125-4737-a578-b3f2be2ac3a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-disabled</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>2bdb8459-bf47-404e-97e8-ac8d044e3aa1</webElementGuid>
+      <value>false</value>
+      <webElementGuid>94b72c4c-2779-4c59-b9d3-01a84242506a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,23 +96,23 @@
       <name>text</name>
       <type>Main</type>
       <value> Pilih materi belajar </value>
-      <webElementGuid>418ee2d1-c926-4372-9cad-75a723aebb7a</webElementGuid>
+      <webElementGuid>e744ab78-0f07-40d5-9cff-a83007c71b01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default pace-done pace-done pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto&quot;]/button[@class=&quot;text-capitalize appearance-filled btn-disabled size-medium shape-rectangle status-primary ng-star-inserted nb-transition&quot;]</value>
-      <webElementGuid>07152d9b-c1e8-4112-9117-1d2cc64ebb9d</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default pace-done pace-done pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/div[@class=&quot;row w-100 m-0 px-15 container-body&quot;]/ngx-timeline-dashboard[1]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;timeline w-100 change-line&quot;]/li[@class=&quot;timeline-inverted&quot;]/div[@class=&quot;timeline-panel bg-white p-5&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/div[@class=&quot;d-flex flex-column col-12 col-sm-8 col-md-8 order-2 order-md-1 mr-5&quot;]/div[@class=&quot;w-100 mt-auto&quot;]/button[@class=&quot;text-capitalize appearance-filled size-medium shape-rectangle status-primary ng-star-inserted nb-transition&quot;]</value>
+      <webElementGuid>df5e840b-161d-4cc1-a272-e39c25bcadf3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[2]/following::button[1]</value>
-      <webElementGuid>b341645d-4f3c-4e04-8408-b88a4f11c6ed</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::button[1]</value>
+      <webElementGuid>b6dc971a-4d0b-465f-8a86-007c49c207ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Materi Belajar'])[1]/following::button[1]</value>
-      <webElementGuid>932a0a82-d03c-463c-bd6e-24dec0edcaca</webElementGuid>
+      <webElementGuid>7d22cbe7-259a-49ff-a6c6-8b409be2a2a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Diri'])[1]/preceding::button[1]</value>
-      <webElementGuid>ff219253-b2db-4ff6-9aa2-ff3f274a3abf</webElementGuid>
+      <webElementGuid>99ec8943-46ad-4d40-8ccc-63230b472f13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +136,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='benar'])[1]/preceding::button[1]</value>
-      <webElementGuid>e10ed0d2-83b6-413d-84e4-da3eaaeb045e</webElementGuid>
+      <webElementGuid>7f8578ef-78a5-4ef4-8dc3-5044599ae58d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +144,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pilih materi belajar']/parent::*</value>
-      <webElementGuid>3b13ea90-e780-4c6e-8c98-e19966a3c833</webElementGuid>
+      <webElementGuid>7945ddbe-4923-4ee8-8940-f39c8be4cd5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +152,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[3]/button</value>
-      <webElementGuid>8092d030-6404-4c39-81e1-4ef6448c723e</webElementGuid>
+      <webElementGuid>e4db6da3-edfc-4dec-b9b9-13f4d75afdbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +160,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Pilih materi belajar ' or . = ' Pilih materi belajar ')]</value>
-      <webElementGuid>0b5f3421-ae2e-4dee-a007-aa03d6ab072b</webElementGuid>
+      <webElementGuid>85b3d77f-6a5a-4d3b-b0cd-8033390ce365</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

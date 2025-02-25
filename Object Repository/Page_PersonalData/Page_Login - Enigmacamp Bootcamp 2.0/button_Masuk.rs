@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Masuk</name>
    <tag></tag>
-   <elementGuidId>a3ca3a42-7321-4356-8a5a-067206d423e4</elementGuidId>
+   <elementGuidId>bd3bce27-1095-4762-82ea-a6b820a04074</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#btn-submit</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='btn-submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-submit</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0dc4d531-b283-495f-ae28-4dd260634e5a</webElementGuid>
+      <webElementGuid>756864be-1bef-4172-8378-30464c51c914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>eef42bfe-8651-41d1-b2fd-31396377623c</webElementGuid>
+      <webElementGuid>ba612d10-6abd-4b99-b906-40f2031de3a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>1084b0ee-b8bd-4771-a04c-b3e98815e77a</webElementGuid>
+      <webElementGuid>6d733e9b-79f9-4f3b-bb4e-d4ff61f425d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-submit</value>
-      <webElementGuid>6be6218c-310a-4bf7-8a97-8644b76856fb</webElementGuid>
+      <webElementGuid>b83c0a2c-f2eb-4620-9093-d49f6dfe95f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-sm w-100 pd-medium rectangle bold-600</value>
-      <webElementGuid>7f2144f7-8a56-4238-ab19-75d9067baa6f</webElementGuid>
+      <webElementGuid>5ba002ee-e976-4216-ac95-19ce252a8127</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <value>
                 Masuk
               </value>
-      <webElementGuid>2b14c999-e865-42f7-9979-d9fcd1af1cd0</webElementGuid>
+      <webElementGuid>a5ce20e8-688a-436b-b926-e85408945c4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-submit&quot;)</value>
-      <webElementGuid>90588943-400c-4786-a32e-7dd8620a57ec</webElementGuid>
+      <webElementGuid>975539e7-848a-4fb3-9460-80d0dfd2c196</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-submit']</value>
-      <webElementGuid>8dab052e-0725-4ca9-900a-fa37264b9955</webElementGuid>
+      <webElementGuid>8af1ea06-5836-439b-9cda-1a25b992f304</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='id-form-login']/button[2]</value>
-      <webElementGuid>c6c782ed-2df4-4ad7-8a74-51f5ceaaed63</webElementGuid>
+      <webElementGuid>9181248a-25a9-4029-b208-edd357f4c97a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi ?'])[1]/following::button[1]</value>
-      <webElementGuid>a4e8371d-e8ae-4602-993c-660f8791498d</webElementGuid>
+      <webElementGuid>f36cd189-13a4-45bb-b772-75b018ba64b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukan Captcha'])[1]/following::button[1]</value>
-      <webElementGuid>b914bcb4-fc64-4ed6-b3fd-1d417e8eb647</webElementGuid>
+      <webElementGuid>6328dca6-b4e0-41cb-86a1-8164a17d3684</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/preceding::button[1]</value>
-      <webElementGuid>830fd147-1c8c-46ed-9f3c-c704f6e6db16</webElementGuid>
+      <webElementGuid>d9f0f00a-f6dd-4843-a39d-f0c4485b717b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>beb06f31-800e-47c4-b404-a18203c9263f</webElementGuid>
+      <webElementGuid>9de451ca-db44-4264-8c72-8a6c23497b56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>8f22b86b-c268-4fde-848c-36ba344d87b4</webElementGuid>
+      <webElementGuid>e1f1e89d-dc26-4155-9049-d0e927351baf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
               ' or . = '
                 Masuk
               ')]</value>
-      <webElementGuid>b6e3ebac-d228-4286-9e65-f76f2870c4c4</webElementGuid>
+      <webElementGuid>2380a79e-c11d-4011-a58f-816f4487664a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
