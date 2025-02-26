@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Ubah Profil</name>
    <tag></tag>
-   <elementGuidId>144e1761-2a4b-48aa-ab69-d0d96dcf59af</elementGuidId>
+   <elementGuidId>652b7b0d-beb6-41f3-96a9-f8733efc2ebc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>53ff69a0-56ca-42f0-8c20-13c04b434a3b</webElementGuid>
+      <webElementGuid>afd3feb5-51ef-400a-a36c-3a9a4ed3a7a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dd4db929-96d3-446e-a383-dc4a62c41f13</webElementGuid>
+      <webElementGuid>1ebf7f82-13c8-45bc-8981-4f7f2add976d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>0d50d489-24a5-4df5-9883-160b6f8ac77f</webElementGuid>
+      <webElementGuid>e452a330-7ca8-4dae-a15c-6fa7e4a82255</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>status</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>7c68bdfd-78d9-4a71-ae02-227fc731dd07</webElementGuid>
+      <webElementGuid>e11ca819-53e7-4e92-a574-d840270bc292</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>size</name>
       <type>Main</type>
       <value>small</value>
-      <webElementGuid>87b2008e-3a36-4c83-a095-c45b90483b3a</webElementGuid>
+      <webElementGuid>71e31699-3091-4e24-9b84-78271b91f6d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c4220bf0-9174-4897-8a17-e0d7b5689874</webElementGuid>
+      <webElementGuid>8e4e2709-8edb-4cc0-bb62-c0891f7b5863</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>62a3ed54-e168-4e35-9e14-c9859a102528</webElementGuid>
+      <webElementGuid>9c23b542-c257-4aab-a5f1-23a10a0a2fd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>class</name>
       <type>Main</type>
       <value>appearance-filled size-small shape-rectangle status-primary ng-star-inserted nb-transition</value>
-      <webElementGuid>3fa3c1e4-c500-4311-93e7-ed28dcf613d3</webElementGuid>
+      <webElementGuid>c8688c5b-c859-45cb-ae23-8b60b4b72782</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ubah Profil </value>
-      <webElementGuid>b6e3a067-003c-423d-bc68-0e7eb1f6f964</webElementGuid>
+      <webElementGuid>da1ab461-cebb-40d2-9c6d-57b695895f69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default      pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;bg-white p-4 d-flex flex-column&quot;]/form[@class=&quot;ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;row m-0 justify-content-end&quot;]/button[@class=&quot;appearance-filled size-small shape-rectangle status-primary ng-star-inserted nb-transition&quot;]</value>
-      <webElementGuid>d04e9184-ad97-4fc4-ac90-8cd3701a8cd9</webElementGuid>
+      <webElementGuid>22b4a35f-f109-4eab-8887-a62ac92f3303</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>de6b139b-6b04-4023-9f09-f00d42c5d07d</webElementGuid>
+      <webElementGuid>7585ba68-45ff-43e5-9bc4-f4ddd2b80c5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/following::button[1]</value>
-      <webElementGuid>7c5bc787-69e4-4beb-bb17-f7a5675b7284</webElementGuid>
+      <webElementGuid>e49f2762-6d53-43f0-a97e-1df4ec6a1ec4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Domisili'])[1]/following::button[1]</value>
-      <webElementGuid>7ed5337f-6c68-4863-a5cf-57cbef847bd2</webElementGuid>
+      <webElementGuid>0a458df6-1164-4af5-8a94-cd25e205aeca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/preceding::button[1]</value>
-      <webElementGuid>30aa59c5-e785-4830-b0cf-1bb07a70e6cf</webElementGuid>
+      <webElementGuid>2933d101-8216-41c7-9402-b32790ef8d27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ubah Profil']/parent::*</value>
-      <webElementGuid>3410a3ed-a946-4380-835a-efdc1263d99d</webElementGuid>
+      <webElementGuid>3a38245b-845f-4da2-847f-302d3e9ed472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/button</value>
-      <webElementGuid>adc07c81-0e7c-412a-9573-86fe1bef2351</webElementGuid>
+      <webElementGuid>8b348725-e056-4281-b441-d04d6322d09d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Ubah Profil ' or . = 'Ubah Profil ')]</value>
-      <webElementGuid>1f07b934-8158-4259-8b90-c9707ba19f99</webElementGuid>
+      <webElementGuid>e66098d0-fe8a-4cc7-a827-ac71f9c44d1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

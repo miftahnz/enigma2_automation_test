@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk</name>
+   <name>dropdown_gender_male</name>
    <tag></tag>
-   <elementGuidId>bd3bce27-1095-4762-82ea-a6b820a04074</elementGuidId>
+   <elementGuidId>134bab4e-0ac9-4662-a02a-961601ea9fcd</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Laki-laki' or . = 'Laki-laki')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-submit']</value>
+         <value>//div[@id='ae5a4d42baea-0']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#btn-submit</value>
+         <value>#ae5a4d42baea-0</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -22,125 +26,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>756864be-1bef-4172-8378-30464c51c914</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>ba612d10-6abd-4b99-b906-40f2031de3a1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>6d733e9b-79f9-4f3b-bb4e-d4ff61f425d7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>btn-submit</value>
-      <webElementGuid>b83c0a2c-f2eb-4620-9093-d49f6dfe95f0</webElementGuid>
+      <value>div</value>
+      <webElementGuid>210482b7-d6e1-4951-8c65-da912c5501fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-sm w-100 pd-medium rectangle bold-600</value>
-      <webElementGuid>5ba002ee-e976-4216-ac95-19ce252a8127</webElementGuid>
+      <value>ng-option ng-option-marked ng-star-inserted</value>
+      <webElementGuid>2dead879-02c9-4450-b275-8276db99a214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>ac0491d8-aa58-42d2-95f5-08e32156fd93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9958b0f8-a59c-4739-9d55-295b729f1fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ae5a4d42baea-0</value>
+      <webElementGuid>962c429e-1a7f-4172-9b65-38c727064668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                Masuk
-              </value>
-      <webElementGuid>a5ce20e8-688a-436b-b926-e85408945c4b</webElementGuid>
+      <value>Laki-laki</value>
+      <webElementGuid>07fa371f-379d-4803-8d81-bb74df9f2fca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-submit&quot;)</value>
-      <webElementGuid>975539e7-848a-4fb3-9460-80d0dfd2c196</webElementGuid>
+      <value>id(&quot;ae5a4d42baea-0&quot;)</value>
+      <webElementGuid>f8081abe-1649-4311-aa5e-5fb9cdb98a9c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btn-submit']</value>
-      <webElementGuid>8af1ea06-5836-439b-9cda-1a25b992f304</webElementGuid>
+      <value>//div[@id='ae5a4d42baea-0']</value>
+      <webElementGuid>bb2a9d5f-33ba-490e-9994-24804c4af7fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='id-form-login']/button[2]</value>
-      <webElementGuid>9181248a-25a9-4029-b208-edd357f4c97a</webElementGuid>
+      <value>//ng-dropdown-panel[@id='ae5a4d42baea']/div/div[2]/div</value>
+      <webElementGuid>3e6a316e-e6b9-4ce0-897f-b83be5ff53de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi ?'])[1]/following::button[1]</value>
-      <webElementGuid>f36cd189-13a4-45bb-b772-75b018ba64b3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Kelamin'])[1]/following::div[5]</value>
+      <webElementGuid>39b3518d-524a-41fd-be4d-8cfee4e4ea6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukan Captcha'])[1]/following::button[1]</value>
-      <webElementGuid>6328dca6-b4e0-41cb-86a1-8164a17d3684</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[10]</value>
+      <webElementGuid>545b683a-069b-489d-91fd-050e85754ab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/preceding::button[1]</value>
-      <webElementGuid>d9f0f00a-f6dd-4843-a39d-f0c4485b717b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>9de451ca-db44-4264-8c72-8a6c23497b56</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::div[1]</value>
+      <webElementGuid>da457fe7-45a9-4bfd-adb5-012145b5b948</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>e1f1e89d-dc26-4155-9049-d0e927351baf</webElementGuid>
+      <value>//ng-dropdown-panel/div/div[2]/div</value>
+      <webElementGuid>e015c277-d6c9-4d8b-b20a-b211d263d3ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'btn-submit' and (text() = '
-                Masuk
-              ' or . = '
-                Masuk
-              ')]</value>
-      <webElementGuid>2380a79e-c11d-4011-a58f-816f4487664a</webElementGuid>
+      <value>//div[@id = 'ae5a4d42baea-0' and (text() = 'Laki-laki' or . = 'Laki-laki')]</value>
+      <webElementGuid>9edfd413-7b54-449f-9873-df6acf2c8944</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

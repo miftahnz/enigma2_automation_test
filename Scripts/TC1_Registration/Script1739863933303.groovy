@@ -26,12 +26,9 @@ import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 // STEP 1: Generate User Data
 // ==========================
 Random random = new Random()
-
-String randomFullName = 'User Auto ' + RandomStringUtils.randomAlphabetic(5)
-
-String randomEmail = "$randomFullName.toLowerCase().replaceAll( , .).$random.nextInt(900)@yopmail.com"
-
-String randomPhoneNumber = "08$(100000000 + random.nextInt(900000000))"
+String randomFullName = "User Auto " + RandomStringUtils.randomAlphabetic(5)
+String randomEmail = "${randomFullName.toLowerCase().replaceAll(" ", ".")}.${random.nextInt(900)}@yopmail.com"
+String randomPhoneNumber = "08${100000000 + random.nextInt(900000000)}"
 
 // =========================================
 // STEP 2: Open Browser & Navigate to Page
@@ -102,7 +99,7 @@ for (int attempt = 0; attempt < maxAttempt; attempt++) {
     // ========================================
     // STEP 9: Re-Chaptcha
     // ========================================
-    WebUI.comment("Captcha salah, mencoba ulang... ($(attempt + 1)/$maxAttempt)")
+	WebUI.comment("Captcha salah, mencoba ulang... (${attempt + 1}/${maxAttempt})")
 
     WebUI.click(findTestObject('Page_Register/button_RefreshCaptcha'))
 }

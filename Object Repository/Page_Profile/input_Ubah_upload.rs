@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Ubah_upload</name>
    <tag></tag>
-   <elementGuidId>82f71a9c-30d9-40bd-a818-22045740cdcc</elementGuidId>
+   <elementGuidId>99f153eb-c06e-4efa-abd4-35e9bc1abd2b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b5a14ace-8e25-4d7c-8ddc-3e2d61bd1808</webElementGuid>
+      <webElementGuid>2e23a5e7-3fd0-4a3c-89d3-19c0a21bc222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>147722dd-438e-4dcb-929a-6a8f33b16893</webElementGuid>
+      <webElementGuid>a3e4b51c-5998-4fe8-b044-e4b275d650f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>accept</name>
       <type>Main</type>
       <value>image/*</value>
-      <webElementGuid>7c81bfd4-aa03-4ae7-a4c5-93c331bac30e</webElementGuid>
+      <webElementGuid>4ab6b71d-176a-4b81-a67d-3e3498db0acc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>upload</value>
-      <webElementGuid>9fed3420-6650-49d7-abe5-1b55bef7fc32</webElementGuid>
+      <webElementGuid>2f415f0d-2ffe-4d0e-8191-fd1197366b9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default      pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/nb-sidebar[@class=&quot;menu-sidebar start expanded&quot;]/div[@class=&quot;main-container main-container-fixed&quot;]/div[@class=&quot;scrollable&quot;]/ngx-profile[1]/div[@class=&quot;pb-3 border-bottom border-light&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mx-3 position-relative&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;file-upload btn&quot;]/input[@class=&quot;upload&quot;]</value>
-      <webElementGuid>6ad03a15-1a60-4949-9764-8382933116ba</webElementGuid>
+      <webElementGuid>43093fd7-7d74-4b8e-a781-d7effa153591</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='file']</value>
-      <webElementGuid>1974230c-bccf-4981-a883-960d556feb87</webElementGuid>
+      <webElementGuid>c3bcd741-7182-4542-bc9e-0678f825f65f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>030a478d-6389-46e4-b158-f9f69a8cc6f3</webElementGuid>
+      <webElementGuid>241b1113-6002-409a-8556-73b88d9d79cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file']</value>
-      <webElementGuid>457e2a70-147c-47f8-b4a5-28870ad57238</webElementGuid>
+      <webElementGuid>b941691a-2048-4ac8-9046-1425765bbc9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

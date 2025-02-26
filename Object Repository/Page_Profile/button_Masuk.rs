@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Lajang</name>
+   <name>button_Masuk</name>
    <tag></tag>
-   <elementGuidId>a4ac8f54-b499-4891-bd21-9bf51a21bd57</elementGuidId>
+   <elementGuidId>2b9b14e8-343a-47b6-9911-6488a6dfc0d4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='a139cddfef65-0']</value>
+         <value>//button[@id='btn-submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#a139cddfef65-0</value>
+         <value>#btn-submit</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,125 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>8438e975-f8f7-4d7f-aa5d-a9a6c505532b</webElementGuid>
+      <value>button</value>
+      <webElementGuid>d9c93ec9-218c-4da7-8d5f-f394fff00e83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>ng-option ng-star-inserted ng-option-marked</value>
-      <webElementGuid>e1a7c61b-60df-4805-aa3c-80ffbff86235</webElementGuid>
+      <value>3</value>
+      <webElementGuid>12e548d7-3ea0-4702-b124-70754b9a87c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>type</name>
       <type>Main</type>
-      <value>option</value>
-      <webElementGuid>e91e84a8-25ab-4111-b167-430170346fce</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-selected</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>0b786f62-b433-4a2a-92d6-bd1868a78a3f</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>886764af-dd35-4432-b464-9df20f38f249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>a139cddfef65-0</value>
-      <webElementGuid>16f04310-7cd7-49a5-9f1a-cc0a46e7dfff</webElementGuid>
+      <value>btn-submit</value>
+      <webElementGuid>3fdbefef-cbfe-422b-a957-0cf7d4243237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm w-100 pd-medium rectangle bold-600</value>
+      <webElementGuid>c115cb23-b0ed-41ac-ac8f-1c08084380d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Lajang</value>
-      <webElementGuid>dca35b45-0d92-4952-a5d3-e764f025871b</webElementGuid>
+      <value>
+                Masuk
+              </value>
+      <webElementGuid>96ab9823-8fd9-4ec0-bd98-ba8bd456104d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;a139cddfef65-0&quot;)</value>
-      <webElementGuid>9a135366-53e4-404d-a1b2-6e5741b89dc7</webElementGuid>
+      <value>id(&quot;btn-submit&quot;)</value>
+      <webElementGuid>930a1d78-8baa-4cad-8e6a-bf186dc5a418</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='a139cddfef65-0']</value>
-      <webElementGuid>b62ee2b3-b478-459f-b671-88b2d9ed7567</webElementGuid>
+      <value>//button[@id='btn-submit']</value>
+      <webElementGuid>c0d575a0-6423-49c8-a177-6848d9640b93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ng-dropdown-panel[@id='a139cddfef65']/div/div[2]/div</value>
-      <webElementGuid>92928ca4-0adf-49b4-9a25-59d43d22fbb5</webElementGuid>
+      <value>//form[@id='id-form-login']/button[2]</value>
+      <webElementGuid>812ae66b-a978-4094-bb42-0ded5d1e1cd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Status'])[1]/following::div[5]</value>
-      <webElementGuid>169437b6-8cec-4ba4-88ca-87b14011ed7c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi ?'])[1]/following::button[1]</value>
+      <webElementGuid>f6e07a9f-0b41-4966-b665-5896b4032cc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::div[10]</value>
-      <webElementGuid>d7c88ae7-a6a3-4353-ac96-7d1e1b77dc88</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukan Captcha'])[1]/following::button[1]</value>
+      <webElementGuid>b7213a11-ae91-41fd-8c8f-efd96bbc7a4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kawin'])[1]/preceding::div[1]</value>
-      <webElementGuid>3584fdfc-1165-4449-abc9-84a8c423f765</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/preceding::button[1]</value>
+      <webElementGuid>0830062f-c468-4691-af35-4b6e44524d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>7c7d5423-eec8-47a1-9453-cf97a356294e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ng-dropdown-panel/div/div[2]/div</value>
-      <webElementGuid>7f108d92-51e1-4a68-8978-8710959798f1</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>58259c7a-f609-4ab1-bc29-c13315f8e47c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'a139cddfef65-0' and (text() = 'Lajang' or . = 'Lajang')]</value>
-      <webElementGuid>53a46311-b4bd-4fbe-9bc0-729a4ddf53d9</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'btn-submit' and (text() = '
+                Masuk
+              ' or . = '
+                Masuk
+              ')]</value>
+      <webElementGuid>d49e582b-207b-4ddd-ae64-98cf1eb0d0b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Saya mengerti</name>
+   <name>button_Simpan Profil</name>
    <tag></tag>
-   <elementGuidId>4e16d413-6529-4c09-8c1b-4a917ca1aba4</elementGuidId>
+   <elementGuidId>144f1d7b-11e9-41a9-a6d1-4c4ffe8551d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.col-12.p-3.border-top.text-right.footer > button.text-capitalize.appearance-filled.size-small.shape-rectangle.status-primary.nb-transition</value>
+         <value>button.appearance-filled.size-small.shape-rectangle.status-info.ng-star-inserted.nb-transition</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a872ae58-9d5f-4300-9d81-c14a6dc4222c</webElementGuid>
+      <webElementGuid>67fefb5e-5a38-4aee-bb42-234b70a70822</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>37b3b60f-2fe1-4d5b-9734-93250c6e86f3</webElementGuid>
+      <webElementGuid>47a74abb-95f8-4d8a-9db0-d5ba46d24c98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,15 @@
       <name>shape</name>
       <type>Main</type>
       <value>rectangle</value>
-      <webElementGuid>9ba924da-efa8-406e-a0e2-9738373bb0d9</webElementGuid>
+      <webElementGuid>503d3139-2e58-4793-b09b-9999571d8625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>status</name>
+      <type>Main</type>
+      <value>info</value>
+      <webElementGuid>088c5150-61f3-45e3-9165-ff35752738cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,23 +55,7 @@
       <name>size</name>
       <type>Main</type>
       <value>small</value>
-      <webElementGuid>9c5f464a-6b38-464a-82ca-fa69c0e1c3de</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>status</name>
-      <type>Main</type>
-      <value>primary</value>
-      <webElementGuid>35bf1032-865e-468a-90ea-7a1d0ceb1eb0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>text-capitalize appearance-filled size-small shape-rectangle status-primary nb-transition</value>
-      <webElementGuid>cc766019-ce0e-4fd4-895d-6fcf382c4e8b</webElementGuid>
+      <webElementGuid>ff5d9fac-2733-4b17-89d0-e84aca5225a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +63,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d51d88db-43ef-4fc3-87d6-f9a908f49c79</webElementGuid>
+      <webElementGuid>e3d6cbcd-1fb2-40ab-a7a7-e42c239e6c91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,23 +71,31 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>a9c95d84-9739-4394-9bc0-d0f7e3762be3</webElementGuid>
+      <webElementGuid>adcb6ce2-63fe-408e-8d88-65f53e567f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appearance-filled size-small shape-rectangle status-info ng-star-inserted nb-transition</value>
+      <webElementGuid>6f05129d-f7bf-4209-897a-3a287c52652f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Saya mengerti</value>
-      <webElementGuid>0d2ad57d-132c-47b7-a8c6-8a8e33b02e3e</webElementGuid>
+      <value>Simpan Profil </value>
+      <webElementGuid>d58dae96-6041-4e73-840f-3d2e6e5d8111</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/ngx-tutorial-video[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;vw-100&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;col-12 col-md-10 col-lg-6&quot;]/div[@class=&quot;row d-flex flex-column rounded bg-white&quot;]/div[@class=&quot;col-12 p-3 border-top text-right footer&quot;]/button[@class=&quot;text-capitalize appearance-filled size-small shape-rectangle status-primary nb-transition&quot;]</value>
-      <webElementGuid>bb021158-1a98-4a1c-a168-40e7083fefb1</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default      pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;bg-white p-4 d-flex flex-column&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;row m-0 justify-content-end&quot;]/button[@class=&quot;appearance-filled size-small shape-rectangle status-info ng-star-inserted nb-transition&quot;]</value>
+      <webElementGuid>7913bb70-f0ee-498c-9706-f4035ba51181</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,54 +103,54 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>9ee7b4c5-b4c5-4fc1-9ef7-56ab49c476c2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-tutorial-video/div/div/div/div/div[2]/button</value>
-      <webElementGuid>82cff333-82b6-42e2-80c4-dd63f1f14791</webElementGuid>
+      <webElementGuid>c353040a-30d9-4816-8517-db09285beb73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panduan T&amp;C'])[1]/following::button[1]</value>
-      <webElementGuid>3c6d14ca-9522-431d-89f1-3bbb5d13e798</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
+      <webElementGuid>1458a5e1-bcba-409c-aebc-f7bd4af9b4b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/following::button[1]</value>
-      <webElementGuid>523ecb0a-ebec-4521-814e-bd1ed36d1190</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BEKASI'])[1]/following::button[2]</value>
+      <webElementGuid>6822dbfe-f627-4c1d-bc53-9ceb534c900e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Saya mengerti']/parent::*</value>
-      <webElementGuid>3b97565c-deb8-422f-a7fe-2fb89ef2de7a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enigmacamp.com'])[1]/preceding::button[1]</value>
+      <webElementGuid>94ae3b2b-55b3-438e-8d81-af94bc0ecddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan Profil']/parent::*</value>
+      <webElementGuid>628d279d-5ab1-4f27-baa5-7a1057b69e54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div[2]/button</value>
-      <webElementGuid>e9642f27-aec6-4717-83df-e15a583d97c6</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>d8f330f3-edad-459d-ae40-c3bde65258c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Saya mengerti' or . = 'Saya mengerti')]</value>
-      <webElementGuid>98d00684-f7c3-4b45-94a9-138886fb6f08</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Simpan Profil ' or . = 'Simpan Profil ')]</value>
+      <webElementGuid>21778c22-34b0-4229-a233-978950f41a2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

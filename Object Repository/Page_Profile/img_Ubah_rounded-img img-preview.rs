@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Ubah_rounded-img img-preview</name>
+   <tag></tag>
+   <elementGuidId>abb79257-d70b-41bd-ad3d-0a65179cffa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='img-profile']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.rounded-img.img-preview</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1d0db8e6-5bd9-4d54-ba5d-74487b9e7cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>img-profile</value>
+      <webElementGuid>2ce05ed4-324f-48f9-b39e-f9e802df76d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-img img-preview</value>
+      <webElementGuid>272c646e-fda2-4ea0-8b11-06cef20dd6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/default-avatar.png</value>
+      <webElementGuid>8a1e9459-1e04-40ec-827d-1fd49bf3f46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default      pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/nb-sidebar[@class=&quot;menu-sidebar start expanded&quot;]/div[@class=&quot;main-container main-container-fixed&quot;]/div[@class=&quot;scrollable&quot;]/ngx-profile[1]/div[@class=&quot;pb-3 border-bottom border-light&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mx-3 position-relative&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[@class=&quot;rounded-img img-preview&quot;]</value>
+      <webElementGuid>26d2b258-a236-45f0-aebf-c00e7e4cec76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='img-profile']</value>
+      <webElementGuid>c065b0af-1d20-4d57-9ae0-22aa82ce9f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/img</value>
+      <webElementGuid>fe23e24a-aea5-4bfd-9f7a-027fd2ab1577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'img-profile' and @src = 'assets/img/default-avatar.png']</value>
+      <webElementGuid>47310073-2f7e-465d-a531-d8260b267dee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

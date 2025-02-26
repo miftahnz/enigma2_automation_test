@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Laki-laki</name>
+   <name>div_Mahasiswa Aktif</name>
    <tag></tag>
-   <elementGuidId>dd9bc987-cc59-4f45-aea6-e55d568a12d5</elementGuidId>
+   <elementGuidId>81a9b041-19f9-41c3-b737-8cd61ee8b4ab</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='a3098ee11bcb-0']</value>
+         <value>//div[@id='a93658bc1681-0']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#a3098ee11bcb-0</value>
+         <value>#a93658bc1681-0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b3a6d094-17fb-4d21-bfd1-497ea6dccb95</webElementGuid>
+      <webElementGuid>804c9871-0a18-415c-992c-887f0814cae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-option ng-option-marked ng-star-inserted</value>
-      <webElementGuid>e09c3e91-2e30-4300-bccb-240c8e1bc877</webElementGuid>
+      <webElementGuid>bd510e83-b9f9-47a3-9ce3-94cca9ef947c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>901b5417-91f8-48d5-8a9b-3228c0c9a75c</webElementGuid>
+      <webElementGuid>0af58c13-36c4-422c-8db2-28b7ab512270</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,71 +47,71 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>75b7ab37-0769-4fa9-951d-7ed62b512b18</webElementGuid>
+      <webElementGuid>f3c4f598-8be9-48d6-aa72-30adf50595d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>a3098ee11bcb-0</value>
-      <webElementGuid>8033af1d-3757-4901-9695-e0c99816c3b8</webElementGuid>
+      <value>a93658bc1681-0</value>
+      <webElementGuid>be4bafac-4fec-44a2-b6d4-a98ba9ba8f23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Laki-laki</value>
-      <webElementGuid>cbe640d2-19e0-4e99-9a9f-83a4c9b916b6</webElementGuid>
+      <value>Mahasiswa Aktif</value>
+      <webElementGuid>1e8da190-c13c-451b-98de-b24d4b5380af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;a3098ee11bcb-0&quot;)</value>
-      <webElementGuid>cd1d2f71-88d7-45a6-9d70-a8e9d473ed1c</webElementGuid>
+      <value>id(&quot;a93658bc1681-0&quot;)</value>
+      <webElementGuid>3f6baede-2aa6-470d-82db-1aea476209f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='a3098ee11bcb-0']</value>
-      <webElementGuid>99164580-5cac-4684-ad96-c835a4aeec02</webElementGuid>
+      <value>//div[@id='a93658bc1681-0']</value>
+      <webElementGuid>7c9b8752-142c-4775-8335-fd54bf6b93f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ng-dropdown-panel[@id='a3098ee11bcb']/div/div[2]/div</value>
-      <webElementGuid>c1ec3f5d-889d-4e34-87d4-b8c0a6145431</webElementGuid>
+      <value>//ng-dropdown-panel[@id='a93658bc1681']/div/div[2]/div</value>
+      <webElementGuid>dfe4c823-80e1-4317-a833-e914eeac6286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Kelamin'])[1]/following::div[5]</value>
-      <webElementGuid>1eadd61a-9092-41f3-a833-6bf499a467ea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Pendidikan Terakhir'])[1]/following::div[5]</value>
+      <webElementGuid>f2029acc-474d-41a0-82c8-af98331ef2bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[10]</value>
-      <webElementGuid>6befc279-a459-4ae5-9ac4-13b18db10c21</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::div[10]</value>
+      <webElementGuid>a38b2838-d002-4949-b909-873cbe8b3526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::div[1]</value>
-      <webElementGuid>3530b781-dae2-45c8-adc6-aef19515598e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lulus Kuliah'])[1]/preceding::div[1]</value>
+      <webElementGuid>86aafe59-6aa2-4c5a-98db-0cfe25ed163b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,14 +119,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ng-dropdown-panel/div/div[2]/div</value>
-      <webElementGuid>cec82531-0ccf-425f-8804-e36acda7b364</webElementGuid>
+      <webElementGuid>4fa4cefc-6d37-4b9e-af21-b6dfdfe998a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'a3098ee11bcb-0' and (text() = 'Laki-laki' or . = 'Laki-laki')]</value>
-      <webElementGuid>077f0e8b-d475-4a57-996e-591e3b5655f8</webElementGuid>
+      <value>//div[@id = 'a93658bc1681-0' and (text() = 'Mahasiswa Aktif' or . = 'Mahasiswa Aktif')]</value>
+      <webElementGuid>6ed4c49d-6be9-4f40-8101-6628b2b53bcb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
