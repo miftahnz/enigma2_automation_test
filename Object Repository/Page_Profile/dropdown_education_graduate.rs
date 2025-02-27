@@ -6,6 +6,10 @@
    <elementGuidId>30bf4cc3-420d-4e2a-a2ef-e9fe149ea6b9</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Lulus Kuliah' or . = 'Lulus Kuliah')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='a93658bc1681-1']</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>#a93658bc1681-1</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f8147a2c-20b1-4751-ad36-cd47117f1761</webElementGuid>
+      <webElementGuid>3786d543-8f8f-40f4-b0d5-e90db69ddafb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-option ng-star-inserted ng-option-marked</value>
-      <webElementGuid>e98bffe2-af5f-416d-892e-aefd00e949f4</webElementGuid>
+      <webElementGuid>d1a3e7fa-071e-4b17-8f46-3e98e9d7bc65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>24a5aea5-c77a-4905-a0a7-25203e32f50f</webElementGuid>
+      <webElementGuid>d9e050ef-d974-4c5f-a2f3-104993e93c14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +51,15 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e66d6993-aacc-4b7d-9dd7-44f0266fa152</webElementGuid>
+      <webElementGuid>3016b618-a5b0-4199-955b-12819f4362c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>a93658bc1681-1</value>
-      <webElementGuid>ee9fd4fe-556f-4f99-b8de-b343c1d5b9e6</webElementGuid>
+      <webElementGuid>3a26b999-c36e-46d1-94a1-85d7b86b7a48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +67,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lulus Kuliah</value>
-      <webElementGuid>11787ede-536d-4909-8995-3aa1e758db1e</webElementGuid>
+      <webElementGuid>aed4d603-eb60-44a5-a740-0abb81e83c45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;a93658bc1681-1&quot;)</value>
-      <webElementGuid>c96115d2-022f-4d15-9766-b05ff4d293af</webElementGuid>
+      <webElementGuid>b29cde7d-053d-48b7-9b17-247da17f1c06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='a93658bc1681-1']</value>
-      <webElementGuid>4a896c9a-d15b-4e45-a2bf-b29da8655d68</webElementGuid>
+      <webElementGuid>f5b371c0-c444-4e68-8322-4a2e43f87714</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ng-dropdown-panel[@id='a93658bc1681']/div/div[2]/div[2]</value>
-      <webElementGuid>765444aa-fb33-45b7-b485-da579e3fefbc</webElementGuid>
+      <webElementGuid>c87afa5e-c231-4824-b1d3-d80d43a21fde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mahasiswa Aktif'])[2]/following::div[1]</value>
-      <webElementGuid>9d24a666-85cb-4fc9-84ed-c17458bacadc</webElementGuid>
+      <webElementGuid>c2a46d15-e746-46d2-8fb1-f0f7d53a0932</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mahasiswa Aktif'])[1]/following::div[6]</value>
-      <webElementGuid>7adf56eb-9f26-41f2-bac9-4da09e834e25</webElementGuid>
+      <webElementGuid>ef6bea58-869e-41f1-b5c1-0b30db05dd4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lulus SMA/SMK Sederajat'])[1]/preceding::div[1]</value>
-      <webElementGuid>6c26ac40-a446-42a9-946d-267e5c45e1f5</webElementGuid>
+      <webElementGuid>022fb6a9-d1d1-4c48-95e6-2a5b85dd2c8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ng-dropdown-panel/div/div[2]/div[2]</value>
-      <webElementGuid>5206e3d5-4216-4f45-b83b-edcc16cde6c6</webElementGuid>
+      <webElementGuid>a1994ae5-4fd1-4048-88ad-389b8521b474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +131,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'a93658bc1681-1' and (text() = 'Lulus Kuliah' or . = 'Lulus Kuliah')]</value>
-      <webElementGuid>7a2914e5-3f28-4da4-b43c-3413022d3d9d</webElementGuid>
+      <webElementGuid>4c857838-c3c2-461b-b211-da66936ef591</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

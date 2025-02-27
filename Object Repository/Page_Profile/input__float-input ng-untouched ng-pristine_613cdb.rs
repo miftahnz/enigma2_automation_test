@@ -6,6 +6,10 @@
    <elementGuidId>5a3bdb3c-f80b-48a3-be00-60fa58d4cd9e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(//input[@type='text'])[2]</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>input.float-input.ng-untouched.ng-pristine.ng-invalid</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7a8d228e-439e-4c69-a202-ffbfcd62f9a3</webElementGuid>
+      <webElementGuid>dc755d02-6490-4931-ab01-848be0236758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6bda6b3f-1d89-44ec-8c66-b18acfb318c0</webElementGuid>
+      <webElementGuid>1d865b22-e5f1-4eca-a956-9ca58769b00a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>float-input ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>79ed400f-cd43-43c0-822a-f6eac380066c</webElementGuid>
+      <webElementGuid>7449aa80-a7df-4eae-a802-b5c9e9f26dda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>3f7c1368-9c4e-4831-bc43-c0554a5264fd</webElementGuid>
+      <webElementGuid>75cf2b5a-e53c-4b2d-9330-cba5b87a158e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;nb-theme-default      pace-done&quot;]/ngx-app[1]/ngx-pages[@class=&quot;ng-star-inserted&quot;]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll with-subheader&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-candidate-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;bg-white p-4 d-flex flex-column&quot;]/form[@class=&quot;ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;mt-3 mt-md-0&quot;]/div[@class=&quot;row row-mb m-0 w-100 ng-star-inserted&quot;]/div[@class=&quot;col-12 col-lg-6 border-right border-none-mb border-dark px-0 pr-lg-3&quot;]/div[@class=&quot;floating-group mb-3&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/input[@class=&quot;float-input ng-untouched ng-pristine ng-invalid&quot;]</value>
-      <webElementGuid>32ffb331-4d4f-4bcf-abcb-269a8fb4876b</webElementGuid>
+      <webElementGuid>1684b052-0f83-40aa-b614-57ed7905abc9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>2dc4c920-af10-46d2-8751-9b684eb592c6</webElementGuid>
+      <webElementGuid>3c9205d7-fa35-4ee0-b162-3c5f46ffa725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>2a219efc-ab59-465e-9480-06cc5b879b1e</webElementGuid>
+      <webElementGuid>d1f92fa0-9ead-48d5-8add-337fb039e707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +83,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>d06a6771-817a-4638-9957-d19bbaa4b680</webElementGuid>
+      <webElementGuid>e56d7111-9f3c-41b3-90ce-9b227f2b0cf8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

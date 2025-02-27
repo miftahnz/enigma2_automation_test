@@ -42,7 +42,7 @@ WebUI.delay(5)
 WebUI.click(findTestObject('Object Repository/Page_Profile/dropdown_gender_male'))
 
 // DROPDOWN EDUCATION
-WebUI.click(findTestObject('Object Repository/Page_Profile/input__float-input ng-untouched ng-pristine_613cdb'))
+WebUI.click(findTestObject('Object Repository/Page_Profile/span_Pilih Pendidikan Terakhir_ng-arrow-wrapper'))
 WebUI.click(findTestObject('Object Repository/Page_Profile/dropdown_education_graduate'))
 
 // DROPDOWN MARITAL STATUS
